@@ -1,0 +1,357 @@
+
+
+*****************************************************************
+
+Execution of GenericApp starts at : 							22/1/2016   9:39:49
+
+*****************************************************************
+
+
+
+
+
+-----------------------------------------------------------------
+
+Start Time		:  Friday, January 22, 2016 09:40:06
+
+-----------------------------------------------------------------
+
+
+2379
+COMMAND SUBMITTED
+
+
+
+IKV/AD072T0022E/UKRCBK1V5131T577/013                  16-01-22  09:36:11
+2379  NetM         TSURY              3421/00045 OMC.ARCHIVE-23923
+
+STATTRUNK:TGNO=X,STATSUM=Y;                                     ACCEPTED 
+
+
+INTERRUPTION TEXT JOB  2379
+
+
+CONTINUATION TEXT 0001
+
+IKV/AD072T0022E/UKRCBK1V5131T577/013                  16-01-22  09:36:11
+2379  NetM         TSURY              3421/09830 OMC.ARCHIVE-23924
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+ITFINT  IDLE              270 
+OLOCM1  IDLE               31 
+BINTE1  IDLE              149 
+BINTE1  OUT                 5 
+BINTE1  INC                 1 
+CFAST1  NUC  & RNUC         1 
+IOSSLP  IDLE               29 
+ICHN2T  IDLE               56 
+ICHN2T  INC                 6 
+IMTC10  INC                38 
+IMTC10  IDLE               24 
+OOSSLP  IDLE               29 
+IA234   IDLE                2 
+CBOGU1  NUC  & RNUC         1 
+BUCML1  IDLE              787 
+BUCML1  INC                16 
+BUCML1  OUT                 1 
+CBORO1  NUC  & RNUC         1 
+CIVANK  NUC  & RNUC         1 
+BINTM1  IDLE              119 
+BINTM1  OUT                 3 
+OTESLP  IDLE                1 
+BBORO1  IDLE               30 
+BRID2T  IDLE               30 
+BKVMIR  IDLE               31 
+BMTC04  IDLE              372 
+BLUHA1  IDLE              271 
+BLUHA1  INC                 2 
+BLUHA1  OUT                 6 
+BLUHA1  MOBB & NCAR &      31 
+        NMNI                  
+ISERM2  IDLE               62 
+BKHAT2  IDLE              144 
+BKHAT2  OUT                 8 
+BKHAT2  INC                 1 
+CKHAT2  NUC  & RNUC         1 
+IKYI2T  IDLE              218 
+IKYI2T  INC                61 
+NUCML1  NUC  & RNUC         4 
+CSKVY1  NUC  & RNUC         1 
+NTELES  NUC  & RNUC         2
+INTERRUPTION TEXT JOB  2379
+
+
+CONTINUATION TEXT 0002
+
+IKV/AD072T0022E/UKRCBK1V5131T577/013                  16-01-22  09:36:14
+2379  NetM         TSURY              3421/09830 OMC.ARCHIVE-23925
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+CVSS1   NUC  & RNUC         2 
+BSKVY1  IDLE               30 
+OMICR1  IDLE               61 
+OMICR1  OUT                 1 
+BBOGU1  IDLE               30 
+IKHA2T  IDLE               39 
+IKHA2T  INC                23 
+BRIDGM  IDLE               31 
+BLUTSI  IDLE               93 
+BDNIT1  OUT                49 
+BDNIT1  IDLE              197 
+BDNIT1  INC                 2 
+ISUM2T  IDLE               24 
+ISUM2T  INC                 7 
+BRID44  IDLE               62 
+SIVANK  NUC  & RNUC         2 
+ISIM2T  NCAR & NMNI        93 
+CBARY1  NUC  & RNUC         1 
+BODMIR  IDLE               31 
+ISERM3  IDLE               26 
+BTELE2  IDLE              123 
+BIVANK  IDLE               30 
+BCHNV1  IDLE              153 
+BCHNV1  OUT                 2 
+AUDTEX  HOBB & MDIU        31 
+AUDTEX  HOBB & MDIU &      31 
+        NMNI                  
+IKYITS  IDLE               62 
+NTPKOM  NUC  & RNUC         2 
+IA230   IDLE                2 
+ITER2T  IDLE               26 
+ITER2T  INC                 5 
+OTRCOM  IDLE               30 
+OGOLD1  OUT                10 
+OGOLD1  IDLE               21 
+BSIMIR  NCAR & NMNI       124 
+BUMCF1  IDLE               62 
+NSVR    NUC  & RNUC         2 
+IMYK2T  IDLE               55 
+IMYK2T  INC                 7 
+OUKRK1  OUT                 1
+INTERRUPTION TEXT JOB  2379
+
+
+CONTINUATION TEXT 0003
+
+IKV/AD072T0022E/UKRCBK1V5131T577/013                  16-01-22  09:36:17
+2379  NetM         TSURY              3421/09830 OMC.ARCHIVE-23926
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+OUKRK1  IDLE               13 
+OUKRK1  OUT                17 
+CRAKIT  NUC  & RNUC         1 
+CKYIVT  NUC  & RNUC         4 
+BKYIT1  IDLE              154 
+BKYIT1  OUT               390 
+BKYIT1  INC                 9 
+CITC    NUC  & RNUC         1 
+OSVR1   IDLE               81 
+OSVR1   OUT                11 
+BASTE1  IDLE              476 
+BASTE1  INC                80 
+BASTE1  OUT                29 
+BASTE1  BADM & MDIU &      31 
+        NMNI                  
+OVINS1  IDLE                6 
+BKVUT1  IDLE               10 
+BVSS1   IDLE               92 
+BPGW41  IDLE               93 
+BOBUH1  IDLE               61 
+BTRIM1  IDLE              152 
+BTRIM1  INC                 3 
+SIRPEN  NUC  & RNUC         2 
+BUZHG1  IDLE              122 
+BUZHG1  OUT                 2 
+CVYSH1  NUC  & RNUC         1 
+IMTC11  IDLE               37 
+IMTC11  INC                25 
+B234SP  IDLE               22 
+OTFINT  IDLE              270 
+IMIROD  IDLE               15 
+BITC2   BADM               30 
+BTERTI  IDLE              310 
+BODETI  IDLE              124 
+CODET1  NUC  & RNUC         2 
+BTELEI  IDLE               31 
+BLVIV1  IDLE              133 
+BLVIV1  INC                80 
+BRIDGL  IDLE               63 
+BMTC10  IDLE                2 
+BMTC10  INC                 1
+INTERRUPTION TEXT JOB  2379
+
+
+CONTINUATION TEXT 0004
+
+IKV/AD072T0022E/UKRCBK1V5131T577/013                  16-01-22  09:36:22
+2379  NetM         TSURY              3421/09830 OMC.ARCHIVE-23927
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BMTC10  IDLE              254 
+BMTC10  INC                84 
+BMTC10  OUT                 1 
+BRIDGO  IDLE               61 
+CSLAVU  NUC  & RNUC         1 
+IVIN2T  INC                 8 
+IVIN2T  IDLE               54 
+SBROV6  NUC  & RNUC         2 
+IKHM2T  IDLE               27 
+IKHM2T  INC                 4 
+BGOLD   IDLE             1177 
+BPGW42  IDLE             1414 
+BPGW42  INC                12 
+OTELE2  IDLE               31 
+ILUH2T  IDLE               30 
+ILUH2T  INC                 1 
+ILUH2T  MOBB & NCAR &      31 
+        NMNI                  
+IFSDLU  IDLE              201 
+IFSDLU  INC                 9 
+IPOL2T  IDLE               58 
+IPOL2T  INC                 4 
+BODET1  IDLE              180 
+BODET1  OUT                 3 
+BRIDGR  IDLE              124 
+BKHATI  IDLE              173 
+BKHATI  OUT                13 
+BPERH1  IDLE               61 
+IVOLDD  IDLE               14 
+IVOLDD  IDLE & FRCD &       1 
+        IALM                  
+BMTC11  IDLE              226 
+BMTC11  INC               114 
+BMTC11  OUT                 1 
+OTELE1  IDLE               31 
+BTERT1  IDLE              181 
+BTERT1  OUT                 5 
+OCROC1  IDLE               31 
+OINT2T  IDLE               30 
+OINT2T  OUT                 1 
+CSTAV   NUC  & RNUC         1 
+BVSS2   IDLE               92
+INTERRUPTION TEXT JOB  2379
+
+
+CONTINUATION TEXT 0005
+
+IKV/AD072T0022E/UKRCBK1V5131T577/013                  16-01-22  09:36:26
+2379  NetM         TSURY              3421/09830 OMC.ARCHIVE-23928
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+OMIROD  IDLE               15 
+BUZHGI  IDLE               92 
+BUZHGI  INC                 1 
+BRID81  IDLE               29 
+BRAKI1  IDLE               30 
+BKHET1  IDLE              164 
+BKHET1  OUT                52 
+BKHET1  INC                 1 
+BIVANI  IDLE              246 
+BIVANI  INC                 2 
+BSIMT1  NCAR & NMNI       279 
+BKST71  IDLE              620 
+BKST71  INC                92 
+BKST71  OUT                 1 
+BNATM1  IDLE              204 
+BNATM1  OUT                12 
+BNATM1  INC                 5 
+OFSDLU  IDLE              199 
+OFSDLU  OUT                11 
+COBUKH  NUC  & RNUC         1 
+BDONT1  HOBB & NCAR &     155 
+        NMNI                  
+BDONT1  IDLE               89 
+BDONT1  OUT                 4 
+BTELE1  IDLE               59 
+BTELE1  INC                 2 
+ITESLP  IDLE                1 
+OUCML3  IDLE               59 
+OUCML3  OUT                 3 
+BUKRK1  IDLE              277 
+BUKRK1  OUT                 2 
+IDON2T  IDLE               57 
+IDON2T  INC                 5 
+IDON2T  HOBB & NCAR &      93 
+        NMNI                  
+CTETI   NUC  & RNUC         1 
+CVYSHN  NUC  & RNUC         1 
+BUKRZ2  MDIU & NMNI &      31 
+        C7SF                  
+BMYKOI  IDLE               72 
+BMYKOI  INC                 4 
+BMYKOI  HOBB               48 
+OICJ41  IDLE               22
+INTERRUPTION TEXT JOB  2379
+
+
+CONTINUATION TEXT 0006
+
+IKV/AD072T0022E/UKRCBK1V5131T577/013                  16-01-22  09:36:28
+2379  NetM         TSURY              3421/09830 OMC.ARCHIVE-23929
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+OICJ41  OUT                 5 
+OICJ41  IDLE              112 
+OICJ41  IDLE & FRCD &       2 
+        IALM                  
+OICJ41  AUTO & IALM         5 
+OICJ41  BPRM & IALM         2 
+OICJ41  AUTO & KILL         2 
+OICJ44  IDLE              112 
+OICJ44  AUTO & IALM         4 
+OICJ44  BMNT                1 
+OICJ44  BPRM                1 
+OICJ44  AUTO & KILL         1 
+OICJ44  BPRM & IALM         1 
+BFAST1  IDLE               30 
+BSTAV1  IDLE               30 
+BLOCM1  IDLE              245 
+BLOCM1  INC                 2 
+OICJ51  IDLE              130 
+OICJ51  IDLE & FRCD &       6 
+        KILL                  
+OICJ51  AUTO & KILL         7 
+OICJ51  BPRM                3 
+OICJ51  OUT                 2 
+OICJ51  BPRM & IALM         1 
+OICJ51  OUT  & FRCD &       1 
+        KILL                  
+CBORYS  NUC  & RNUC         1 
+BSERM4  IDLE               31 
+OICJ55  IDLE              118 
+OICJ55  AUTO & IALM         1 
+OICJ55  AUTO & KILL         1 
+BVSHN1  IDLE               61 
+OICJ43  IDLE               91 
+OICJ43  AUTO & IALM         6 
+OICJ43  BBAC                1 
+OICJ43  IDLE & FRCD &      20 
+        IALM                  
+OICJ43  IDLE & FRCD &       1 
+        KILL & IALM           
+OICJ43  BPRM                1 
+IZAP2T  IDLE               41 
+IZAP2T  INC                21 
+IIVA2T  IDLE               30 
+IIVA2T  INC                 1 
+OMTC10  IDLE               10
+INTERRUPTION TEXT JOB  2379
+

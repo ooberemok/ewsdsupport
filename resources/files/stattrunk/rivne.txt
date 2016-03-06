@@ -1,0 +1,384 @@
+
+
+*****************************************************************
+
+Execution of GenericApp starts at : 							22/1/2016   9:39:35
+
+*****************************************************************
+
+
+
+
+
+-----------------------------------------------------------------
+
+Start Time		:  Friday, January 22, 2016 09:39:54
+
+-----------------------------------------------------------------
+
+
+4417
+COMMAND SUBMITTED
+
+
+
+RIVNE/1426E#PS140/UKRCPK1V5131!354/013                16-01-22  09:36:03
+4417  NetM         TSURK              3070/00045 
+
+STATTRUNK:TGNO=X,STATSUM=Y;                                     ACCEPTED 
+
+
+INTERRUPTION TEXT JOB  4417
+
+
+CONTINUATION TEXT 0001
+
+RIVNE/1426E#PS140/UKRCPK1V5131!354/013                16-01-22  09:36:04
+4417  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+ODITO   BADM                4 
+ODITO   IDLE               26 
+ISP27L  IDLE               87 
+ISP27L  INC                 8 
+OSP27L  IDLE              119 
+OSP27L  OUT                 9 
+ISPVL4  IDLE               45 
+ISPVL4  INC                 2 
+BPROM   IDLE              192 
+BPROM   OUT                 7 
+BPROM   INC                11 
+IA22L4  MDIU               15 
+IA22L4  IDLE               15 
+BKOST   IDLE               55 
+BKOST   OUT                 2 
+IZARIC  IDLE               12 
+IZARIC  INC                 1 
+IA22L6  MDIU               83 
+IA22L6  IDLE               79 
+IA22L6  BPRM                1 
+OA22L   MDIU              124 
+OA22L   MDIU & MPRT        21 
+OA22L   MPRT                2 
+OA22L   BADM               17 
+OA22L   BADM & MPRT         2 
+IA26L   INC                11 
+IA26L   IDLE              164 
+OA26L   IDLE              166 
+OA26L   OUT                19 
+BRADBR  IDLE                2 
+OA22M   MDIU               35 
+OA26M   IDLE               40 
+BODEUK  IDLE               30 
+CODEUK  NUC  & RNUC         1 
+CATC68  NUC  & RNUC         1 
+CKOST   NUC  & RNUC         1 
+BKVUK   IDLE               30 
+OBRKR   IDLE               15 
+BKUZGR  IDLE                4 
+BRIVUT  IDLE                5
+INTERRUPTION TEXT JOB  4417
+
+
+CONTINUATION TEXT 0002
+
+RIVNE/1426E#PS140/UKRCPK1V5131!354/013                16-01-22  09:36:06
+4417  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BRIVUT  INC                 6 
+BRIVUT  OUT                16 
+BRIVUT  IDLE              220 
+OINOV   IDLE                2 
+IINOV   IDLE                2 
+BDUBRV  IDLE               60 
+BDUBRV  OUT                 1 
+CKVUK   NUC  & RNUC         1 
+CRIVUT  NUC  & RNUC         1 
+BA62S   IDLE              727 
+BA62S   INC                39 
+BA62S   OUT                39 
+C7A62   NUC  & RNUC         1 
+WAKE    IDLE                5 
+BKSTAR  IDLE              124 
+BROKY   IDLE               29 
+BROKY   OUT                 1 
+BZDOLB  IDLE               52 
+BZDOLB  OUT                 2 
+BZDOLB  INC                 3 
+BSARNY  IDLE               57 
+BSARNY  OUT                 2 
+CSARNY  NUC  & RNUC         1 
+IA23L6  IDLE              141 
+IA23L6  INC                12 
+IA23L6  BPRM                2 
+OA23L   IDLE              157 
+OA23L   OUT                10 
+IA24L6  IDLE              176 
+IA24L6  INC                 4 
+OA24L   IDLE              164 
+OA24L   OUT                 9 
+IA28L   INC                 7 
+IA28L   IDLE               92 
+IA28L   BPRM                1 
+OA28L   IDLE              145 
+OA28L   OUT                13 
+MBEREZ  NUC  & RNUC         2 
+IA5L    INC                 3 
+IA5L    IDLE                1
+INTERRUPTION TEXT JOB  4417
+
+
+CONTINUATION TEXT 0003
+
+RIVNE/1426E#PS140/UKRCPK1V5131!354/013                16-01-22  09:36:07
+4417  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+IA5L    INC                 7 
+IA5L    IDLE              171 
+IA5L    MPRT                1 
+OA5L    IDLE              142 
+OA5L    OUT                 8 
+OA5L    BMNT                1 
+CPROM   NUC  & RNUC         1 
+IA5L2   IDLE              313 
+IA5L2   INC                 7 
+OA23M   IDLE               40 
+OA24M   IDLE               35 
+CDUBRV  NUC  & RNUC         1 
+OA5M    IDLE               39 
+OA5M    BPRM                1 
+OA28M   IDLE               35 
+MVOLOD  NUC  & RNUC         2 
+BMLYN   IDLE               56 
+BMLYN   INC                 2 
+BMLYN   OUT                 1 
+CMLYN   NUC  & RNUC         1 
+MHOSH   NUC  & RNUC         2 
+BHOSBR  IDLE                2 
+BKORBR  IDLE                2 
+MDUBN   NUC  & RNUC         2 
+CROKY   NUC  & RNUC         1 
+IDEMYD  IDLE               11 
+ODEMYD  IDLE               15 
+BOSTR   IDLE               56 
+BOSTR   INC                 1 
+BOSTR   OUT                 2 
+BKUZN   IDLE               54 
+BKUZN   OUT                 2 
+BKUZN   INC                 1 
+CKUZN   NUC  & RNUC         1 
+BDUBNO  IDLE               54 
+BDUBNO  OUT                 4 
+BDUBNO  INC                 3 
+CDUBNO  NUC  & RNUC         1 
+OZARIC  IDLE               15 
+CZDOLB  NUC  & RNUC         1
+INTERRUPTION TEXT JOB  4417
+
+
+CONTINUATION TEXT 0004
+
+RIVNE/1426E#PS140/UKRCPK1V5131!354/013                16-01-22  09:36:08
+4417  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BINFOC  IDLE              177 
+BINFOC  OUT                 4 
+BINFOC  INC                 4 
+CINFOC  NUC  & RNUC         1 
+BBEREZ  IDLE               25 
+BBEREZ  OUT                 1 
+CBEREZ  NUC  & RNUC         1 
+IA28M   IDLE               70 
+IA28M   INC                 2 
+IA28M   MPRT                2 
+IA28M   BPRM                1 
+BHOSH   IDLE               56 
+BHOSH   INC                 1 
+BHOSH   OUT                 2 
+IA24M   IDLE               81 
+IA24M   MPRT                3 
+IA24M   INC                 1 
+CHOSH   NUC  & RNUC         1 
+IA26M   IDLE               90 
+IA26M   INC                10 
+IA22M   IDLE               76 
+IA22M   MDIU               20 
+I24AVT  IDLE                5 
+ISPBR   IDLE                4 
+IACBU   MPRT                3 
+IACBU   IDLE                9 
+IACBU   INC                 1 
+BSPV    INC                 1 
+BSPV    IDLE               59 
+BSPV    OUT                 1 
+CSPV    NUC  & RNUC         1 
+MDUBRV  NUC  & RNUC         2 
+BINTEL  OUT                22 
+BINTEL  IDLE              463 
+BINTEL  INC                10 
+OACBU   IDLE                8 
+OACBU   MPRT                2 
+INTVSS  IDLE               30 
+BATC68  IDLE                9 
+BATC68  OUT                 1
+INTERRUPTION TEXT JOB  4417
+
+
+CONTINUATION TEXT 0005
+
+RIVNE/1426E#PS140/UKRCPK1V5131!354/013                16-01-22  09:36:09
+4417  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BATC68  IDLE               94 
+BATC68  OUT                 7 
+BATC68  INC                13 
+IA26L4  IDLE               31 
+IA26L4  INC                 7 
+IA5L4   IDLE               40 
+IA5L4   INC                 4 
+IA28L4  IDLE               31 
+IA28L4  INC                 1 
+IA23L4  IDLE               30 
+IA23L4  INC                 3 
+IA24L4  INC                 7 
+IA24L4  IDLE               30 
+OACBUM  IDLE                1 
+BRADYV  IDLE               26 
+BRADYV  OUT                 1 
+BRADYV  INC                 1 
+I22AVT  IDLE               14 
+MZDOLB  NUC  & RNUC         2 
+MKOREC  NUC  & RNUC         2 
+BKSVSS  IDLE               29 
+BKSVSS  INC                 1 
+BVOLOD  IDLE               58 
+BVOLOD  OUT                 1 
+CVOLOD  NUC  & RNUC         1 
+BKOREC  IDLE               58 
+BKOREC  OUT                 1 
+CKOREC  NUC  & RNUC         1 
+BSMGLV  IDLE               31 
+COSTR   NUC  & RNUC         1 
+BDATA   IDLE              115 
+BDATA   OUT                 5 
+BDATA   INC                 3 
+CDATA   NUC  & RNUC         1 
+CRADYV  NUC  & RNUC         1 
+MKOST   NUC  & RNUC         2 
+MKUZN   NUC  & RNUC         2 
+IA22VS  MDIU               27 
+IA22VS  IDLE               25 
+IA24VS  IDLE               45
+INTERRUPTION TEXT JOB  4417
+
+
+CONTINUATION TEXT 0006
+
+RIVNE/1426E#PS140/UKRCPK1V5131!354/013                16-01-22  09:36:10
+4417  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+IA26VS  IDLE               54 
+IA26VS  BPRM                1 
+IA28VS  BPRM                1 
+IA28VS  IDLE               34 
+IA23VS  IDLE               34 
+IA23VS  INC                 1 
+IA5VS   IDLE               48 
+BBERBR  IDLE                4 
+BVOLBR  IDLE                2 
+ISPVSS  IDLE               26 
+BMLYBR  IDLE                2 
+IDEMBR  IDLE                2 
+BZDOBR  IDLE                4 
+MMLYN   NUC  & RNUC         2 
+BOSTBR  IDLE                2 
+IZARBR  IDLE                2 
+BKOSBR  IDLE                4 
+BSARBR  IDLE                2 
+IBRKR   IDLE               15 
+BDOROG  IDLE               79 
+BDOROG  OUT                 1 
+BDOROG  BADM               12 
+CDOROG  NUC  & RNUC         1 
+I28AVT  IDLE                5 
+I26AVT  IDLE                5 
+IDEAVT  IDLE                2 
+MOSTR   NUC  & RNUC         2 
+MROKY   NUC  & RNUC         2 
+MSARNY  NUC  & RNUC         2 
+MRADYV  NUC  & RNUC         2 
+MATC68  NUC  & RNUC         2 
+MSPV    NUC  & RNUC         2 
+MDATA   NUC  & RNUC         2 
+MINFOC  NUC  & RNUC         2 
+MDOROG  NUC  & RNUC         2 
+MPROM   NUC  & RNUC         2 
+MODEUK  NUC  & RNUC         2 
+MKVUK   NUC  & RNUC         2 
+IA61    IDLE                9 
+IA61    INC                 1
+INTERRUPTION TEXT JOB  4417
+
+
+CONTINUATION TEXT 0007
+
+RIVNE/1426E#PS140/UKRCPK1V5131!354/013                16-01-22  09:36:10
+4417  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+IA61    IDLE                6 
+OA61M   IDLE                5 
+OA61L   IDLE               10 
+IA61L2  IDLE               15 
+IA61L4  IDLE               15 
+IA61L7  IDLE               15 
+OA61L2  IDLE               10 
+OA61L4  IDLE               10 
+OA61L7  IDLE                9 
+OA61L7  OUT                 1 
+OA61M2  IDLE                5 
+OA61M4  IDLE                5 
+OA61M7  IDLE                5 
+BGOLD   IDLE              245 
+BGOLD   OUT                 2 
+BGOLD   INC                 1 
+BPGW2   IDLE               83 
+BPGW2   OUT                10
+END JOB 4417
+
+
+
+
+
+-----------------------------------------------------------------
+
+End Time		 :  Friday, January 22, 2016 09:40:20
+
+-----------------------------------------------------------------
+

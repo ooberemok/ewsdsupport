@@ -1,0 +1,776 @@
+
+
+*****************************************************************
+
+Execution of GenericApp starts at : 							22/1/2016   9:39:39
+
+*****************************************************************
+
+
+
+
+
+-----------------------------------------------------------------
+
+Start Time		:  Friday, January 22, 2016 09:39:56
+
+-----------------------------------------------------------------
+
+
+4788
+COMMAND SUBMITTED
+
+
+
+MTSKH/AD072T3014E/UKRCBK1V5131Q751/113                16-01-22  09:36:10
+4788  NetM         TSURK              3070/00045 
+
+STATTRUNK:TGNO=X,STATSUM=Y;                                     ACCEPTED 
+
+
+INTERRUPTION TEXT JOB  4788
+
+
+CONTINUATION TEXT 0001
+
+MTSKH/AD072T3014E/UKRCBK1V5131Q751/113                16-01-22  09:36:10
+4788  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BOPUMC  BADM & MDIU        93 
+BOPUMC  OUT                 1 
+BOPUMC  IDLE               29 
+BOPUMC  INC                 1 
+ISUMY9  IDLE               10 
+IWTG00  NUC  & RNUC        38 
+IWTG00  BADM                1 
+BUKOML  IDLE              145 
+BUKOML  INC                 7 
+BUKOML  OUT                 3 
+COPTS1  NUC  & RNUC         2 
+IWTG01  NUC  & RNUC        34 
+IWTG01  BADM                4 
+CKIEV   NUC  & RNUC         2 
+IZACHI  IDLE                5 
+CTELM   NUC  & RNUC         1 
+IBURL   INC                 5 
+IBURL   IDLE               26 
+BPREP   IDLE              173 
+BPREP   OUT                44 
+CKRKUT  NUC  & RNUC         1 
+CSUMUT  NUC  & RNUC         1 
+BMCA2   OUT                27 
+BMCA2   INC                18 
+BMCA2   IDLE              172 
+BSUMUT  IDLE               30 
+BKIEUT  IDLE              144 
+BKIEUT  INC                 8 
+BKIEUT  OUT                 1 
+IZACH7  IDLE                6 
+CDONUT  NUC  & RNUC &       1 
+        NCAR & NMNI           
+BSUMY9  IDLE               21 
+BMZT1I  IDLE              174 
+BMZT1I  INC                11 
+BMZT1I  OUT                 1 
+IA97    INC                 6 
+IA97    AUTO & KILL         2 
+IA97    IDLE               61 
+IA97    IDLE & FRCD &       1 
+        IALM                  
+CDVUR   NUC  & RNUC         1
+INTERRUPTION TEXT JOB  4788
+
+
+CONTINUATION TEXT 0002
+
+MTSKH/AD072T3014E/UKRCBK1V5131Q751/113                16-01-22  09:36:12
+4788  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+CPOLUT  NUC  & RNUC         1 
+IDEBAL  MDIU               16 
+OPECH   IDLE               14 
+OPECH   OUT                 1 
+CLUGUT  NUC  & RNUC         1 
+BDVUR   IDLE               54 
+BDVUR   INC                 3 
+BDVUR   OUT                 2 
+BDNEUT  IDLE              107 
+BDNEUT  INC               110 
+BDNEUT  OUT                61 
+BINTER  IDLE               86 
+BINTER  INC                 5 
+BINTER  OUT                 1 
+CDNEUT  NUC  & RNUC         1 
+IBALAK  IDLE               50 
+IBALAK  INC                 8 
+ODEBAL  MDIU               14 
+BTRIMO  IDLE               31 
+IVOLCH  IDLE               43 
+IVOLCH  INC                 9 
+CZMIEV  NUC  & RNUC         1 
+BMZT2I  IDLE              172 
+BMZT2I  INC                14 
+BTELM   IDLE               30 
+CKIEUT  NUC  & RNUC         1 
+BSAH08  IDLE                2 
+IBARV   IDLE               12 
+IBARV   IDLE & FRCD &       5 
+        IALM                  
+IBARV   INC                 2 
+IBARV   AUTO & IALM         1 
+BSHE08  IDLE                3 
+BUMC12  IDLE              205 
+BUMC12  INC                26 
+BUMC12  OUT                17 
+BUSS9   IDLE               10 
+CVALKI  NUC  & RNUC         1 
+BVAL08  IDLE                2 
+CPERVO  NUC  & RNUC         1 
+BUMC13  IDLE                1
+INTERRUPTION TEXT JOB  4788
+
+
+CONTINUATION TEXT 0003
+
+MTSKH/AD072T3014E/UKRCBK1V5131Q751/113                16-01-22  09:36:13
+4788  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BUMC13  INC                32 
+BUMC13  OUT                15 
+BUMC13  IDLE              200 
+OKEGIC  IDLE               15 
+IPECH   IDLE               15 
+BPERVO  IDLE               82 
+BPERVO  OUT                 3 
+BPERVO  INC                 4 
+BLOZ08  IDLE                6 
+IKEGIC  IDLE               15 
+BVALKI  IDLE               83 
+BVALKI  OUT                 7 
+OSAHN   IDLE               15 
+CSAHN   NUC  & RNUC         1 
+OBLIZN  IDLE               19 
+OBLIZN  OUT                 2 
+BKRKUT  IDLE               51 
+BKRKUT  INC                 7 
+BKRKUT  OUT                 1 
+ISAHN   IDLE               15 
+CBOROV  NUC  & RNUC         1 
+BKEG08  IDLE                2 
+BUNT    IDLE               30 
+BUNT    OUT                 1 
+OKOLOM  IDLE               15 
+IZACH8  IDLE                2 
+IA336   IDLE               47 
+IA336   INC                 4 
+IA336   IDLE & FRCD &       8 
+        IALM                  
+IA336   AUTO & IALM         1 
+IA337   IDLE               57 
+IA337   INC                 3 
+BPOLT9  IDLE               31 
+BSAHN   IDLE               55 
+BSAHN   INC                 2 
+BSAHN   OUT                 2 
+BBOR08  IDLE                2 
+ISHEV   IDLE               15 
+CSMG    NUC  & RNUC         1 
+BSMG    IDLE               11
+INTERRUPTION TEXT JOB  4788
+
+
+CONTINUATION TEXT 0004
+
+MTSKH/AD072T3014E/UKRCBK1V5131Q751/113                16-01-22  09:36:15
+4788  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BSMG    INC                 1 
+BSMG    IDLE               15 
+BSMG    OUT                 3 
+OSHEV   IDLE               15 
+OZOLOC  IDLE               19 
+OZOLOC  BPRM                1 
+OZOLOC  OUT                 1 
+BBOROV  IDLE               58 
+BBOROV  OUT                 1 
+OBURL   IDLE               16 
+OBURL   BMNT                1 
+OBURL   OUT                 3 
+OBURL   BMNT & KILL         1 
+OBARV   IDLE & FRCD &      11 
+        IALM                  
+OBARV   IDLE                6 
+OBARV   OUT  & FRCD &       1 
+        IALM                  
+OBARV   AUTO & IALM         1 
+OBARV   OUT                 1 
+OZACH   OUT                 2 
+OZACH   IDLE               26 
+IKOLOM  IDLE               15 
+CSTPKV  NUC  & RNUC         1 
+OZACH1  IDLE               15 
+IVALKI  IDLE               15 
+OBALAK  OUT                 9 
+OBALAK  IDLE               62 
+OBALAK  BPRM                1 
+IZOLOC  IDLE               30 
+IZOLOC  INC                 4 
+IBLIZN  IDLE               19 
+IBLIZN  INC                 1 
+COPTS2  NUC  & RNUC         1 
+COPTS3  NUC  & RNUC         1 
+BOPTS2  IDLE              171 
+BOPTS2  OUT                51 
+BOPTS2  INC                25 
+BOPTS3  IDLE              238 
+BOPTS3  OUT                58 
+BOPTS3  INC                13 
+BOPTS1  IDLE                7
+INTERRUPTION TEXT JOB  4788
+
+
+CONTINUATION TEXT 0005
+
+MTSKH/AD072T3014E/UKRCBK1V5131Q751/113                16-01-22  09:36:17
+4788  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BOPTS1  OUT                37 
+BOPTS1  IDLE              285 
+BOPTS1  INC                10 
+IA338   IDLE               43 
+IA338   INC                 2 
+BZMI08  IDLE                3 
+BKUP08  IDLE                3 
+BDCC    IDLE               31 
+BRSU23  IDLE              297 
+BRSU23  INC                23 
+BRSU23  OUT                21 
+BRSU27  IDLE              246 
+BRSU27  OUT                17 
+BRSU27  INC                16 
+BRSU72  IDLE              132 
+BRSU72  OUT                13 
+BRSU72  INC                10 
+CBOGOD  NUC  & RNUC         1 
+BBOGOD  IDLE              112 
+BBOGOD  OUT                 6 
+BBOGOD  INC                 3 
+BMCA3   IDLE              190 
+BMCA3   BBAC                3 
+BMCA3   OUT                13 
+BMCA3   INC                10 
+BMCA3   BMNT                1 
+CSHEV   NUC  & RNUC         1 
+BSHEV   IDLE               85 
+BSHEV   INC                 4 
+CKRGR   NUC  & RNUC         1 
+BKRGR   IDLE               78 
+BKRGR   OUT                 4 
+BKRGR   INC                 6 
+BKRGR   BBAC                1 
+CCHUG   NUC  & RNUC         2 
+BCHUG   IDLE              123 
+BCHUG   INC                11 
+BCHUG   OUT                13 
+BMCA1   IDLE                2 
+BMCA1   INC                 1
+INTERRUPTION TEXT JOB  4788
+
+
+CONTINUATION TEXT 0006
+
+MTSKH/AD072T3014E/UKRCBK1V5131Q751/113                16-01-22  09:36:18
+4788  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BMCA1   IDLE              149 
+BMCA1   INC                34 
+BMCA1   OUT                32 
+BDER08  IDLE                5 
+BINT94  IDLE               30 
+OVOLCH  IDLE               39 
+OVOLCH  OUT                 9 
+IZACH   IDLE               23 
+IZACH   BMNT                1 
+IZACH   INC                 4 
+BIP3    IDLE              207 
+BIP3    INC                10 
+BIZ08   IDLE                4 
+CVODOL  NUC  & RNUC         1 
+BVODOL  IDLE              103 
+BVODOL  OUT                 8 
+BVODOL  INC                 7 
+BZMIEV  OUT                19 
+BZMIEV  IDLE               52 
+BZMIEV  INC                 8 
+BGOLDN  IDLE              477 
+BGOLDN  INC                11 
+BGOLDN  OUT                 7 
+BGOLDN  MOBB                1 
+CVINNI  NUC  & RNUC         1 
+CDNEPR  NUC  & RNUC         1 
+CDONE   NUC  & RNUC         1 
+CZAPOR  NUC  & RNUC         1 
+CLUGA   NUC  & RNUC         1 
+CODES   NUC  & RNUC         2 
+CTERNO  NUC  & RNUC         1 
+IBLIZI  IDLE & FRCD &       6 
+        KILL                  
+IBLIZI  IDLE                1 
+CZHITO  NUC  & RNUC         1 
+BVINNI  IDLE               30 
+BDNEPR  IDLE               30 
+BDONE   IDLE               30 
+BZAPOR  IDLE               30 
+BKIEV   OUT                 2 
+BKIEV   IDLE                1
+INTERRUPTION TEXT JOB  4788
+
+
+CONTINUATION TEXT 0007
+
+MTSKH/AD072T3014E/UKRCBK1V5131Q751/113                16-01-22  09:36:20
+4788  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BKIEV   OUT                45 
+BKIEV   IDLE              109 
+BKIEV   INC                28 
+BLUGA   IDLE               30 
+BODES   IDLE               60 
+CKHERS  NUC  & RNUC         1 
+BIZUM   INC                 2 
+BIZUM   IDLE              116 
+BIZUM   OUT                 1 
+BZHITO  IDLE               30 
+IKIRVS  IDLE               15 
+BISC3   IDLE              131 
+BISC3   INC                 8 
+BISC3   OUT                16 
+CKEGIC  NUC  & RNUC         1 
+BKSTOP  IDLE               61 
+BKSTOP  INC                 1 
+BA713   IDLE              106 
+BA713   OUT                 7 
+BA713   INC                11 
+CIZUM   NUC  & RNUC         1 
+BKEGIC  INC                 5 
+BKEGIC  IDLE               52 
+BKEGIC  OUT                 2 
+OZOL1   BADM                2 
+OZOL1   IDLE & FRCD &       2 
+        IALM                  
+OZOL1   IDLE                3 
+CKUP    NUC  & RNUC         1 
+IA52    INC                 8 
+IA52    IDLE               51 
+IA52    AUTO & IALM         1 
+IA62    IDLE               86 
+IA62    INC                 3 
+IA62    IDLE & FRCD &       1 
+        IALM                  
+IA64    IDLE               52 
+IA64    INC                 3 
+IBAL00  IDLE               11 
+IVOL00  IDLE               15 
+IBLIZ2  IDLE               10 
+BIPNAT  IDLE                1
+INTERRUPTION TEXT JOB  4788
+
+
+CONTINUATION TEXT 0008
+
+MTSKH/AD072T3014E/UKRCBK1V5131Q751/113                16-01-22  09:36:21
+4788  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BIPNAT  OUT                 3 
+BIPNAT  IDLE               27 
+IA69    IDLE               62 
+IA69    INC                 3 
+OKIEUT  IDLE               39 
+OKIEUT  OUT                23 
+IZMI00  IDLE               10 
+BKUP    IDLE              132 
+BKUP    OUT                 6 
+BKUP    BBAC                5 
+BKUP    INC                 8 
+IA94    IDLE               54 
+IA94    INC                 2 
+BLOZOV  IDLE              163 
+BLOZOV  OUT                 8 
+BLOZOV  INC                 8 
+CPGW4   NUC  & RNUC         2 
+IA92    IDLE               57 
+IA92    INC                 2 
+IA92    IDLE & FRCD &       1 
+        IALM                  
+IA93    IDLE               57 
+IA93    INC                 2 
+IA93    BADM                1 
+ISTR08  IDLE                2 
+IA335   IDLE               38 
+IA335   INC                 2 
+CLOZOV  NUC  & RNUC         1 
+IBALA9  IDLE                6 
+IAMVR3  MDIU               10 
+IVTA    IDLE               31 
+IVTA    BADM & MDIU        93 
+OVALKI  IDLE               15 
+IBOROV  IDLE               15 
+CCKMZ   NUC  & RNUC         1 
+OBOROV  IDLE               15 
+IZAC00  IDLE                6 
+IDVUR   IDLE               15 
+BCKMZ   IDLE               30 
+IBAL08  IDLE                3 
+BBAZIS  IDLE                8
+INTERRUPTION TEXT JOB  4788
+
+
+CONTINUATION TEXT 0009
+
+MTSKH/AD072T3014E/UKRCBK1V5131Q751/113                16-01-22  09:36:23
+4788  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BBAZIS  OUT                 1 
+BBAZIS  IDLE               22 
+ODVUR   IDLE               15 
+CINTER  NUC  & RNUC         2 
+BBOG08  IDLE                2 
+CCST    NUC  & RNUC         1 
+BKRG08  IDLE                3 
+BPER08  IDLE                3 
+BKRK08  IDLE                2 
+BCHG08  IDLE                3 
+BVOD08  IDLE                4 
+BCST    IDLE              309 
+CKOLOM  NUC  & RNUC         1 
+IAMVR2  MDIU               10 
+OAMVR2  MDIU                5 
+IVOLC8  IDLE                5 
+ISTACH  IDLE               15 
+BTERNO  IDLE               30 
+BKHERS  IDLE               30 
+CSTLUG  NUC  & RNUC         1 
+BKST70  IDLE              388 
+BKST70  INC                70 
+BKST70  OUT                38 
+OAMVR3  MDIU                5 
+BLVOUT  IDLE              117 
+BLVOUT  OUT                 5 
+IUGLED  NCAR & NMNI        20 
+OUGLED  NCAR & NMNI        10 
+IDOKUC  CDIU               20 
+BLUGUT  IDLE               30 
+BPOLUT  IDLE               30 
+CLVOUT  NUC  & RNUC         1 
+IA65    IDLE               53 
+IA65    INC                 2 
+CDERG   NUC  & RNUC         1 
+BDERG   IDLE              160 
+BDERG   INC                 9 
+BDERG   OUT                11 
+ODOKUC  CDIU               10 
+BUSS    IDLE                9
+INTERRUPTION TEXT JOB  4788
+
+
+CONTINUATION TEXT 0010
+
+MTSKH/AD072T3014E/UKRCBK1V5131Q751/113                16-01-22  09:36:24
+4788  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BUSS    INC                15 
+BUSS    IDLE               87 
+BUSS    OUT                 3 
+BVTA    INC                16 
+BVTA    IDLE              175 
+BVTA    OUT                25 
+BVTA    BADM & MDIU       155 
+BA24    IDLE               90 
+BA24    INC                 2 
+CVELTO  NUC  & RNUC         1 
+CA24    NUC  & RNUC         1 
+CMARK   NUC  & RNUC         1 
+BMARK   IDLE               28 
+BMARK   OUT                 1 
+BMARK   INC                 1 
+BINPO   IDLE               47 
+BINPO   OUT                13 
+BINPO   INC                 2 
+CPOLT   NUC  & RNUC         1 
+BPOLT   IDLE               30 
+CCHERG  NUC  & RNUC         1 
+CSUMY   NUC  & RNUC         1 
+BCHERG  IDLE               30 
+BSUMY   IDLE               30 
+BDVU08  IDLE                2 
+BKOLOM  IDLE               26 
+BKOLOM  INC                 2 
+BKOLOM  OUT                 1 
+BKOL08  IDLE                1 
+IZOLO8  IDLE                2 
+IZOLO9  IDLE                2 
+IMRU    IDLE               30 
+IBARV9  IDLE                3 
+IBARV8  IDLE                2 
+ITOREZ  MDIU                6 
+CPECH   NUC  & RNUC         1 
+OTOREZ  MDIU               24 
+ISNEGN  MDIU               17 
+BPECH   IDLE                3 
+BPECH   INC                 1
+INTERRUPTION TEXT JOB  4788
+
+
+CONTINUATION TEXT 0011
+
+MTSKH/AD072T3014E/UKRCBK1V5131Q751/113                16-01-22  09:36:25
+4788  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BPECH   IDLE               25 
+BPECH   INC                 1 
+IBURL8  IDLE                2 
+IBURL9  IDLE                2 
+BPECH8  IDLE                1 
+IBLIZ8  IDLE                2 
+OSNEGN  MDIU                9 
+CSEVDN  NUC  & RNUC         1 
+BSEVDN  IDLE              153 
+BSEVDN  OUT                15 
+BSEVDN  INC                17 
+IA68    IDLE               60 
+CSTPLV  NUC  & RNUC         1 
+IA67    IDLE               44 
+IA67    INC                 1 
+CMCA1   NUC  & RNUC         3 
+NCHUG   NUC  & RNUC         3 
+CSHAHT  NUC  & RNUC &       1 
+        NCAR & NMNI           
+IAID08  IDLE                2 
+IAID09  IDLE                2 
+IKREME  IDLE               12 
+IKREME  INC                 2 
+OKREME  IDLE               14 
+OKREME  OUT                 1 
+BSHAHT  NCAR & NMNI &      30 
+        C7SF                  
+OKIRVS  BPRM                1 
+OKIRVS  IDLE               13 
+OKIRVS  OUT                 1 
+CLISIC  NUC  & RNUC         1 
+BLISIC  IDLE               83 
+BLISIC  OUT                 6 
+BLISIC  INC                 3 
+CRUBEG  NUC  & RNUC         2 
+CUKRKM  NUC  & RNUC         1 
+BUKRKM  IDLE               30 
+BRUBEG  IDLE               54 
+BRUBEG  INC                 2 
+BRUBEG  OUT                 4 
+IKREM3  IDLE               17 
+OKREM3  IDLE                1
+INTERRUPTION TEXT JOB  4788
+
+
+CONTINUATION TEXT 0012
+
+MTSKH/AD072T3014E/UKRCBK1V5131Q751/113                16-01-22  09:36:26
+4788  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+OKREM3  OUT                 2 
+OKREM3  IDLE                7 
+OKREM3  BMNT                2 
+OKREM3  BPRM                1 
+ISTRBE  IDLE               48 
+ISTRBE  INC                 4 
+ISTRBE  IDLE & FRCD &       2 
+        IALM                  
+ISTRBE  AUTO & IALM         2 
+OSTRBE  IDLE               23 
+OSTRBE  OUT                 7 
+ITROIZ  IDLE               23 
+ITROIZ  INC                 3 
+OTROIZ  IDLE               28 
+OTROIZ  OUT                 2 
+INPSKV  IDLE               24 
+INPSKV  INC                 2 
+ONPSKV  IDLE               27 
+ONPSKV  OUT                 3 
+IBVODS  IDLE               25 
+IBVODS  INC                 1 
+OBVODS  IDLE               28 
+OBVODS  OUT                 2 
+IMARKO  AUTO & IALM         1 
+IMARKO  IDLE & FRCD &       2 
+        IALM                  
+IMARKO  IDLE               23 
+OMARKO  IDLE               24 
+OMARKO  OUT                 1 
+IMELOV  IDLE               25 
+IMELOV  INC                 1 
+OMELOV  IDLE               30 
+IAIDAR  IDLE               26 
+OAIDAR  IDLE               29 
+OAIDAR  OUT                 1 
+IPOPAS  IDLE               28 
+OPOPAS  OUT                 3 
+OPOPAS  IDLE               20 
+OPOPAS  BPRM                7 
+OSTACH  IDLE               15 
+BASTS1  OUT                 2 
+BASTS1  INC                 1
+INTERRUPTION TEXT JOB  4788
+
+
+CONTINUATION TEXT 0013
+
+MTSKH/AD072T3014E/UKRCBK1V5131Q751/113                16-01-22  09:36:27
+4788  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BASTS1  OUT                14 
+BASTS1  INC                32 
+BASTS1  IDLE               76 
+INAZOV  MDIU               15 
+ONAZOV  MDIU               15 
+IESIN   IDLE               15 
+CENAKI  NUC  & RNUC &       1 
+        NCAR & NMNI           
+CGORL   NUC  & RNUC         1 
+OESIN   IDLE               15 
+CSLAV   NUC  & RNUC         1 
+BSLAV   IDLE               29 
+BSLAV   INC                 1 
+BGORL   IDLE               60 
+BGORL   OUT                 1 
+BENAKI  HOBB & NCAR &      30 
+        NMNI & C7SF           
+ISTR09  BADM                2 
+INPS08  IDLE                2 
+INPS09  BADM                2 
+ITRO08  IDLE                2 
+ITRO09  BADM                2 
+IMAR09  BADM                2 
+IMAR08  IDLE                1 
+IMAR08  BADM                1 
+IMEL08  IDLE                2 
+IMEL09  BADM                2 
+IKRE08  IDLE                1 
+IPOP08  IDLE                1 
+IPOP09  BADM                1 
+IBVO08  IDLE                2 
+IBVO09  BADM                2 
+BMZT3I  IDLE               62 
+CHARC   NUC  & RNUC         1 
+BHARC   IDLE               30 
+BSTLUG  IDLE               88 
+BSTLUG  OUT                 3 
+BSTLUG  INC                 1 
+CSTBES  NUC  & RNUC         1 
+BSTBES  IDLE               30 
+CMAKEV  NUC  & RNUC         1 
+BMAKEV  IDLE               30
+INTERRUPTION TEXT JOB  4788
+
+
+CONTINUATION TEXT 0014
+
+MTSKH/AD072T3014E/UKRCBK1V5131Q751/113                16-01-22  09:36:27
+4788  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+OCAN33  OUT                 1 
+OCAN31  IDLE                1 
+OCAN32  IDLE                1 
+OCAN38  IDLE                1 
+OCAN34  OUT                 1 
+OCAN35  OUT                 1 
+OCAN36  IDLE                1 
+OCAN37  IDLE                1 
+OCAN39  IDLE                1 
+OCAN40  IDLE                1 
+OCAN41  IDLE                1 
+OCAN42  IDLE                1 
+OCAN43  IDLE                1 
+OCAN44  IDLE                1 
+OCAN45  IDLE                1 
+OCAN46  IDLE                1 
+OCAN47  IDLE                1 
+OCAN48  IDLE                1 
+OCAN49  IDLE                1 
+OCAN50  IDLE                1 
+OCAN51  IDLE                1 
+OCAN52  IDLE                1 
+OCAN53  IDLE                1 
+OCAN54  IDLE                1 
+OCAN55  IDLE                1 
+OCAN56  IDLE                1 
+OCAN57  IDLE                1 
+OCAN58  IDLE                1 
+OCAN59  IDLE                1 
+OCAN60  IDLE                1
+END JOB 4788
+
+
+
+
+
+-----------------------------------------------------------------
+
+End Time		 :  Friday, January 22, 2016 09:40:33
+
+-----------------------------------------------------------------
+

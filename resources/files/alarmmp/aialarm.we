@@ -1,0 +1,894 @@
+ Event log records                                                                                                        
+==========================================================================================================================
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9068,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127529                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass signRouteSetNePart,                                                   
+                                 managedObjectInstance {                                                                  
+                                     mtpSignPointId = numericName : 3,                                                    
+                                     signRouteSetNePartId = bit14 : 5381                                                  
+                                 },                                                                                       
+                                 eventType communicationsAlarm,                                                           
+                                 eventTime "20160202113226",                                                              
+                                 logRecordId number : 127529,                                                             
+                                 loggingTime "20160202113326",                                                            
+                                 packages {                                                                               
+                                     notificationIdentifierPackage,                                                       
+                                     GAAGDA1C.additionalInformationPackage, eventTimePackage                              
+                                 },                                                                                       
+                                 probableCause routeSetUnavailable,                                                       
+                                 perceivedSeverity warning,                                                               
+                                 notificationIdentifier 33609960,                                                         
+                                 additionalInformation {                                                                  
+                                     {                                                                                    
+                                         identifier  addinfType,                                                          
+                                         information AddinfType : routeSet : {                                            
+                                             netname "NAT0",                                                              
+                                             rsname  "NIK6",                                                              
+                                             adjflag FALSE                                                                
+                                         }                                                                                
+                                     }                                                                                    
+                                 }                                                                                        
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9069,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127530                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass signRouteSetNePart,                                                   
+                                 managedObjectInstance {                                                                  
+                                     mtpSignPointId = numericName : 3,                                                    
+                                     signRouteSetNePartId = bit14 : 5381                                                  
+                                 },                                                                                       
+                                 eventType communicationsAlarm,                                                           
+                                 eventTime "20160202115122",                                                              
+                                 logRecordId number : 127530,                                                             
+                                 loggingTime "20160202115121",                                                            
+                                 packages {                                                                               
+                                     GAAGDA1C.correlatedNotificationsPackage,                                             
+                                     stateChangeDefinitionPackage,                                                        
+                                     GAAGDA1C.additionalInformationPackage, eventTimePackage                              
+                                 },                                                                                       
+                                 probableCause routeSetUnavailable,                                                       
+                                 perceivedSeverity cleared,                                                               
+                                 correlatedNotifications { { correlatedNotifications { 33609960 } } },                    
+                                 stateChangeDefinition {                                                                  
+                                     {                                                                                    
+                                         attributeID       alarmStatus,                                                   
+                                         newAttributeValue SAXBAA0C.AlarmStatus : cleared                                 
+                                     }                                                                                    
+                                 },                                                                                       
+                                 additionalInformation {                                                                  
+                                     {                                                                                    
+                                         identifier  addinfType,                                                          
+                                         information AddinfType : routeSet : {                                            
+                                             netname "NAT0",                                                              
+                                             rsname  "NIK6",                                                              
+                                             adjflag FALSE                                                                
+                                         }                                                                                
+                                     }                                                                                    
+                                 }                                                                                        
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9070,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127531                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass signRouteSetNePart,                                                   
+                                 managedObjectInstance {                                                                  
+                                     mtpSignPointId = numericName : 3,                                                    
+                                     signRouteSetNePartId = bit14 : 4358                                                  
+                                 },                                                                                       
+                                 eventType communicationsAlarm,                                                           
+                                 eventTime "20160202151206",                                                              
+                                 logRecordId number : 127531,                                                             
+                                 loggingTime "20160202151306",                                                            
+                                 packages {                                                                               
+                                     notificationIdentifierPackage,                                                       
+                                     GAAGDA1C.additionalInformationPackage, eventTimePackage                              
+                                 },                                                                                       
+                                 probableCause routeSetUnavailable,                                                       
+                                 perceivedSeverity warning,                                                               
+                                 notificationIdentifier 33609961,                                                         
+                                 additionalInformation {                                                                  
+                                     {                                                                                    
+                                         identifier  addinfType,                                                          
+                                         information AddinfType : routeSet : {                                            
+                                             netname "NAT0",                                                              
+                                             rsname  "GOLD7",                                                             
+                                             adjflag FALSE                                                                
+                                         }                                                                                
+                                     }                                                                                    
+                                 }                                                                                        
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9071,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127532                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass signRouteSetNePart,                                                   
+                                 managedObjectInstance {                                                                  
+                                     mtpSignPointId = numericName : 3,                                                    
+                                     signRouteSetNePartId = bit14 : 4358                                                  
+                                 },                                                                                       
+                                 eventType communicationsAlarm,                                                           
+                                 eventTime "20160202151340",                                                              
+                                 logRecordId number : 127532,                                                             
+                                 loggingTime "20160202151340",                                                            
+                                 packages {                                                                               
+                                     GAAGDA1C.correlatedNotificationsPackage,                                             
+                                     stateChangeDefinitionPackage,                                                        
+                                     GAAGDA1C.additionalInformationPackage, eventTimePackage                              
+                                 },                                                                                       
+                                 probableCause routeSetUnavailable,                                                       
+                                 perceivedSeverity cleared,                                                               
+                                 correlatedNotifications { { correlatedNotifications { 33609961 } } },                    
+                                 stateChangeDefinition {                                                                  
+                                     {                                                                                    
+                                         attributeID       alarmStatus,                                                   
+                                         newAttributeValue SAXBAA0C.AlarmStatus : cleared                                 
+                                     }                                                                                    
+                                 },                                                                                       
+                                 additionalInformation {                                                                  
+                                     {                                                                                    
+                                         identifier  addinfType,                                                          
+                                         information AddinfType : routeSet : {                                            
+                                             netname "NAT0",                                                              
+                                             rsname  "GOLD7",                                                             
+                                             adjflag FALSE                                                                
+                                         }                                                                                
+                                     }                                                                                    
+                                 }                                                                                        
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9072,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127533                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass signLinkTp,                                                           
+                                 managedObjectInstance {                                                                  
+                                     mtpSignPointId = numericName : 3,                                                    
+                                     signLinkSetTpId = numericName : 36,                                                  
+                                     slCode = 0                                                                           
+                                 },                                                                                       
+                                 eventType communicationsAlarm,                                                           
+                                 eventTime "20160202161639",                                                              
+                                 logRecordId number : 127533,                                                             
+                                 loggingTime "20160202161739",                                                            
+                                 packages {                                                                               
+                                     specificProblemsPackage, notificationIdentifierPackage,                              
+                                     proposedRepairActionsPackage,                                                        
+                                     GAAGDA1C.additionalInformationPackage, eventTimePackage                              
+                                 },                                                                                       
+                                 probableCause slFailure,                                                                 
+                                 specificProblems { l3ChangeOverOrderFromRemoteL2 },                                      
+                                 perceivedSeverity major,                                                                 
+                                 notificationIdentifier 33609962,                                                         
+                                 proposedRepairActions { carryOutSignLinkTpMaintenance },                                 
+                                 additionalInformation {                                                                  
+                                     {                                                                                    
+                                         identifier  addinfType,                                                          
+                                         information AddinfType : link : {                                                
+                                             netname "NAT0",                                                              
+                                             lsname  "SI3000SMG"                                                          
+                                         }                                                                                
+                                     }                                                                                    
+                                 }                                                                                        
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9073,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127534                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass signLinkSetTp,                                                        
+                                 managedObjectInstance {                                                                  
+                                     mtpSignPointId = numericName : 3,                                                    
+                                     signLinkSetTpId = numericName : 36                                                   
+                                 },                                                                                       
+                                 eventType communicationsAlarm,                                                           
+                                 eventTime "20160202161639",                                                              
+                                 logRecordId number : 127534,                                                             
+                                 loggingTime "20160202161739",                                                            
+                                 packages {                                                                               
+                                     notificationIdentifierPackage,                                                       
+                                     proposedRepairActionsPackage,                                                        
+                                     GAAGDA1C.additionalInformationPackage, eventTimePackage                              
+                                 },                                                                                       
+                                 probableCause linkSetFailure,                                                            
+                                 perceivedSeverity major,                                                                 
+                                 notificationIdentifier 33609963,                                                         
+                                 proposedRepairActions { carryOutSignLinkSetTpMaintenance },                              
+                                 additionalInformation {                                                                  
+                                     {                                                                                    
+                                         identifier  addinfType,                                                          
+                                         information AddinfType : linkSet : {                                             
+                                             netname "NAT0",                                                              
+                                             lsname  "SI3000SMG",                                                         
+                                             lstype  fLink                                                                
+                                         }                                                                                
+                                     }                                                                                    
+                                 }                                                                                        
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9074,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    stateChangeRecord,                                                                           
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127535                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass stateChangeRecord,                                                           
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass signLinkTp,                                                           
+                                 managedObjectInstance {                                                                  
+                                     mtpSignPointId = numericName : 3,                                                    
+                                     signLinkSetTpId = numericName : 36,                                                  
+                                     slCode = 0                                                                           
+                                 },                                                                                       
+                                 eventType stateChange,                                                                   
+                                 eventTime "20160202161639",                                                              
+                                 logRecordId number : 127535,                                                             
+                                 loggingTime "20160202161739",                                                            
+                                 packages { GAAGDA1C.additionalInformationPackage, eventTimePackage },                    
+                                 stateChangeDefinition {                                                                  
+                                     {                                                                                    
+                                         attributeID       GAAGDA1C.operationalState,                                     
+                                         newAttributeValue GAAASA1C.OperationalState : disabled                           
+                                     }                                                                                    
+                                 },                                                                                       
+                                 additionalInformation {                                                                  
+                                     {                                                                                    
+                                         identifier  addinfType,                                                          
+                                         information AddinfType : link : {                                                
+                                             netname "NAT0",                                                              
+                                             lsname  "SI3000SMG"                                                          
+                                         }                                                                                
+                                     }                                                                                    
+                                 }                                                                                        
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9075,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    stateChangeRecord,                                                                           
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127536                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass stateChangeRecord,                                                           
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass signLinkTp,                                                           
+                                 managedObjectInstance {                                                                  
+                                     mtpSignPointId = numericName : 3,                                                    
+                                     signLinkSetTpId = numericName : 36,                                                  
+                                     slCode = 0                                                                           
+                                 },                                                                                       
+                                 eventType stateChange,                                                                   
+                                 eventTime "20160202163422",                                                              
+                                 logRecordId number : 127536,                                                             
+                                 loggingTime "20160202163422",                                                            
+                                 packages { GAAGDA1C.additionalInformationPackage, eventTimePackage },                    
+                                 stateChangeDefinition {                                                                  
+                                     {                                                                                    
+                                         attributeID       GAAGDA1C.operationalState,                                     
+                                         newAttributeValue GAAASA1C.OperationalState : enabled                            
+                                     }                                                                                    
+                                 },                                                                                       
+                                 additionalInformation {                                                                  
+                                     {                                                                                    
+                                         identifier  addinfType,                                                          
+                                         information AddinfType : link : {                                                
+                                             netname "NAT0",                                                              
+                                             lsname  "SI3000SMG"                                                          
+                                         }                                                                                
+                                     }                                                                                    
+                                 }                                                                                        
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9076,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127537                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass signLinkTp,                                                           
+                                 managedObjectInstance {                                                                  
+                                     mtpSignPointId = numericName : 3,                                                    
+                                     signLinkSetTpId = numericName : 36,                                                  
+                                     slCode = 0                                                                           
+                                 },                                                                                       
+                                 eventType communicationsAlarm,                                                           
+                                 eventTime "20160202163422",                                                              
+                                 logRecordId number : 127537,                                                             
+                                 loggingTime "20160202163422",                                                            
+                                 packages {                                                                               
+                                     specificProblemsPackage,                                                             
+                                     GAAGDA1C.correlatedNotificationsPackage,                                             
+                                     stateChangeDefinitionPackage, proposedRepairActionsPackage,                          
+                                     GAAGDA1C.additionalInformationPackage, eventTimePackage                              
+                                 },                                                                                       
+                                 probableCause slFailure,                                                                 
+                                 specificProblems { l3ChangeOverOrderFromRemoteL2 },                                      
+                                 perceivedSeverity cleared,                                                               
+                                 correlatedNotifications { { correlatedNotifications { 33609962 } } },                    
+                                 stateChangeDefinition {                                                                  
+                                     {                                                                                    
+                                         attributeID       alarmStatus,                                                   
+                                         newAttributeValue SAXBAA0C.AlarmStatus : cleared                                 
+                                     }                                                                                    
+                                 },                                                                                       
+                                 proposedRepairActions { carryOutSignLinkTpMaintenance },                                 
+                                 additionalInformation {                                                                  
+                                     {                                                                                    
+                                         identifier  addinfType,                                                          
+                                         information AddinfType : link : {                                                
+                                             netname "NAT0",                                                              
+                                             lsname  "SI3000SMG"                                                          
+                                         }                                                                                
+                                     }                                                                                    
+                                 }                                                                                        
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9077,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127538                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass signLinkSetTp,                                                        
+                                 managedObjectInstance {                                                                  
+                                     mtpSignPointId = numericName : 3,                                                    
+                                     signLinkSetTpId = numericName : 36                                                   
+                                 },                                                                                       
+                                 eventType communicationsAlarm,                                                           
+                                 eventTime "20160202163422",                                                              
+                                 logRecordId number : 127538,                                                             
+                                 loggingTime "20160202163422",                                                            
+                                 packages {                                                                               
+                                     GAAGDA1C.correlatedNotificationsPackage,                                             
+                                     stateChangeDefinitionPackage, proposedRepairActionsPackage,                          
+                                     GAAGDA1C.additionalInformationPackage, eventTimePackage                              
+                                 },                                                                                       
+                                 probableCause linkSetFailure,                                                            
+                                 perceivedSeverity cleared,                                                               
+                                 correlatedNotifications { { correlatedNotifications { 33609963 } } },                    
+                                 stateChangeDefinition {                                                                  
+                                     {                                                                                    
+                                         attributeID       alarmStatus,                                                   
+                                         newAttributeValue SAXBAA0C.AlarmStatus : cleared                                 
+                                     }                                                                                    
+                                 },                                                                                       
+                                 proposedRepairActions { carryOutSignLinkSetTpMaintenance },                              
+                                 additionalInformation {                                                                  
+                                     {                                                                                    
+                                         identifier  addinfType,                                                          
+                                         information AddinfType : linkSet : {                                             
+                                             netname "NAT0",                                                              
+                                             lsname  "SI3000SMG",                                                         
+                                             lstype  fLink                                                                
+                                         }                                                                                
+                                     }                                                                                    
+                                 }                                                                                        
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9078,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127539                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass SAXIGA0C.alarmInputInterface,                                         
+                                 managedObjectInstance { alarmInputInterfaceId = "311COND2" },                            
+                                 eventType environmentalAlarm,                                                            
+                                 eventTime "20160202215204",                                                              
+                                 logRecordId number : 127539,                                                             
+                                 loggingTime "20160202215204",                                                            
+                                 packages {                                                                               
+                                     notificationIdentifierPackage,                                                       
+                                     proposedRepairActionsPackage, additionalTextPackage,                                 
+                                     eventTimePackage                                                                     
+                                 },                                                                                       
+                                 probableCause SAXBAA0C.airConditioningFailure,                                           
+                                 perceivedSeverity critical,                                                              
+                                 notificationIdentifier 33609964,                                                         
+                                 proposedRepairActions { globalValue : mmn-AII },                                         
+                                 additionalText "Room 311 AIRCONDITION 2 FAULT"                                           
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9079,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127540                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass SAXIGA0C.alarmInputInterface,                                         
+                                 managedObjectInstance { alarmInputInterfaceId = "AIRCOND1" },                            
+                                 eventType environmentalAlarm,                                                            
+                                 eventTime "20160202215204",                                                              
+                                 logRecordId number : 127540,                                                             
+                                 loggingTime "20160202215205",                                                            
+                                 packages {                                                                               
+                                     notificationIdentifierPackage,                                                       
+                                     proposedRepairActionsPackage, additionalTextPackage,                                 
+                                     eventTimePackage                                                                     
+                                 },                                                                                       
+                                 probableCause SAXBAA0C.airConditioningFailure,                                           
+                                 perceivedSeverity critical,                                                              
+                                 notificationIdentifier 33609965,                                                         
+                                 proposedRepairActions { globalValue : mmn-AII },                                         
+                                 additionalText "AMTS AIRCONDITION 1 FAULT  Room 315"                                     
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9081,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127541                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass SAXIGA0C.alarmInputInterface,                                         
+                                 managedObjectInstance { alarmInputInterfaceId = "AIRCOND2" },                            
+                                 eventType environmentalAlarm,                                                            
+                                 eventTime "20160202215205",                                                              
+                                 logRecordId number : 127541,                                                             
+                                 loggingTime "20160202215205",                                                            
+                                 packages {                                                                               
+                                     notificationIdentifierPackage,                                                       
+                                     proposedRepairActionsPackage, additionalTextPackage,                                 
+                                     eventTimePackage                                                                     
+                                 },                                                                                       
+                                 probableCause SAXBAA0C.airConditioningFailure,                                           
+                                 perceivedSeverity critical,                                                              
+                                 notificationIdentifier 33609966,                                                         
+                                 proposedRepairActions { globalValue : mmn-AII },                                         
+                                 additionalText "AMTS AIRCONDITION 2 FAULT  Room 315"                                     
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9082,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127542                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass SAXIGA0C.alarmInputInterface,                                         
+                                 managedObjectInstance { alarmInputInterfaceId = "311COND1" },                            
+                                 eventType environmentalAlarm,                                                            
+                                 eventTime "20160202215205",                                                              
+                                 logRecordId number : 127542,                                                             
+                                 loggingTime "20160202215205",                                                            
+                                 packages {                                                                               
+                                     notificationIdentifierPackage,                                                       
+                                     proposedRepairActionsPackage, additionalTextPackage,                                 
+                                     eventTimePackage                                                                     
+                                 },                                                                                       
+                                 probableCause SAXBAA0C.airConditioningFailure,                                           
+                                 perceivedSeverity critical,                                                              
+                                 notificationIdentifier 33609967,                                                         
+                                 proposedRepairActions { globalValue : mmn-AII },                                         
+                                 additionalText "Room 311 AIRCONDITION 1 FAULT"                                           
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9084,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127543                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass SAXIGA0C.alarmInputInterface,                                         
+                                 managedObjectInstance { alarmInputInterfaceId = "AIRCOND1" },                            
+                                 eventType environmentalAlarm,                                                            
+                                 eventTime "20160202215206",                                                              
+                                 logRecordId number : 127543,                                                             
+                                 loggingTime "20160202215206",                                                            
+                                 packages {                                                                               
+                                     GAAGDA1C.correlatedNotificationsPackage,                                             
+                                     stateChangeDefinitionPackage, additionalTextPackage,                                 
+                                     eventTimePackage                                                                     
+                                 },                                                                                       
+                                 probableCause SAXBAA0C.airConditioningFailure,                                           
+                                 perceivedSeverity cleared,                                                               
+                                 correlatedNotifications { { correlatedNotifications { 33609965 } } },                    
+                                 stateChangeDefinition {                                                                  
+                                     {                                                                                    
+                                         attributeID       alarmStatus,                                                   
+                                         newAttributeValue SAXBAA0C.AlarmStatus : cleared                                 
+                                     }                                                                                    
+                                 },                                                                                       
+                                 additionalText "AMTS AIRCONDITION 1 FAULT  Room 315"                                     
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9085,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127544                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass SAXIGA0C.alarmInputInterface,                                         
+                                 managedObjectInstance { alarmInputInterfaceId = "AIRCOND2" },                            
+                                 eventType environmentalAlarm,                                                            
+                                 eventTime "20160202215206",                                                              
+                                 logRecordId number : 127544,                                                             
+                                 loggingTime "20160202215206",                                                            
+                                 packages {                                                                               
+                                     GAAGDA1C.correlatedNotificationsPackage,                                             
+                                     stateChangeDefinitionPackage, additionalTextPackage,                                 
+                                     eventTimePackage                                                                     
+                                 },                                                                                       
+                                 probableCause SAXBAA0C.airConditioningFailure,                                           
+                                 perceivedSeverity cleared,                                                               
+                                 correlatedNotifications { { correlatedNotifications { 33609966 } } },                    
+                                 stateChangeDefinition {                                                                  
+                                     {                                                                                    
+                                         attributeID       alarmStatus,                                                   
+                                         newAttributeValue SAXBAA0C.AlarmStatus : cleared                                 
+                                     }                                                                                    
+                                 },                                                                                       
+                                 additionalText "AMTS AIRCONDITION 2 FAULT  Room 315"                                     
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9087,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127545                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass SAXIGA0C.alarmInputInterface,                                         
+                                 managedObjectInstance { alarmInputInterfaceId = "311COND2" },                            
+                                 eventType environmentalAlarm,                                                            
+                                 eventTime "20160202215207",                                                              
+                                 logRecordId number : 127545,                                                             
+                                 loggingTime "20160202215207",                                                            
+                                 packages {                                                                               
+                                     GAAGDA1C.correlatedNotificationsPackage,                                             
+                                     stateChangeDefinitionPackage, additionalTextPackage,                                 
+                                     eventTimePackage                                                                     
+                                 },                                                                                       
+                                 probableCause SAXBAA0C.airConditioningFailure,                                           
+                                 perceivedSeverity cleared,                                                               
+                                 correlatedNotifications { { correlatedNotifications { 33609964 } } },                    
+                                 stateChangeDefinition {                                                                  
+                                     {                                                                                    
+                                         attributeID       alarmStatus,                                                   
+                                         newAttributeValue SAXBAA0C.AlarmStatus : cleared                                 
+                                     }                                                                                    
+                                 },                                                                                       
+                                 additionalText "Room 311 AIRCONDITION 2 FAULT"                                           
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9088,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127546                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass SAXIGA0C.alarmInputInterface,                                         
+                                 managedObjectInstance { alarmInputInterfaceId = "311COND1" },                            
+                                 eventType environmentalAlarm,                                                            
+                                 eventTime "20160202215207",                                                              
+                                 logRecordId number : 127546,                                                             
+                                 loggingTime "20160202215207",                                                            
+                                 packages {                                                                               
+                                     GAAGDA1C.correlatedNotificationsPackage,                                             
+                                     stateChangeDefinitionPackage, additionalTextPackage,                                 
+                                     eventTimePackage                                                                     
+                                 },                                                                                       
+                                 probableCause SAXBAA0C.airConditioningFailure,                                           
+                                 perceivedSeverity cleared,                                                               
+                                 correlatedNotifications { { correlatedNotifications { 33609967 } } },                    
+                                 stateChangeDefinition {                                                                  
+                                     {                                                                                    
+                                         attributeID       alarmStatus,                                                   
+                                         newAttributeValue SAXBAA0C.AlarmStatus : cleared                                 
+                                     }                                                                                    
+                                 },                                                                                       
+                                 additionalText "Room 311 AIRCONDITION 1 FAULT"                                           
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9090,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127547                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass signRouteSetNePart,                                                   
+                                 managedObjectInstance {                                                                  
+                                     mtpSignPointId = numericName : 3,                                                    
+                                     signRouteSetNePartId = bit14 : 6876                                                  
+                                 },                                                                                       
+                                 eventType communicationsAlarm,                                                           
+                                 eventTime "20160202234841",                                                              
+                                 logRecordId number : 127547,                                                             
+                                 loggingTime "20160202234940",                                                            
+                                 packages {                                                                               
+                                     notificationIdentifierPackage,                                                       
+                                     GAAGDA1C.additionalInformationPackage, eventTimePackage                              
+                                 },                                                                                       
+                                 probableCause routeSetUnavailable,                                                       
+                                 perceivedSeverity warning,                                                               
+                                 notificationIdentifier 33609968,                                                         
+                                 additionalInformation {                                                                  
+                                     {                                                                                    
+                                         identifier  addinfType,                                                          
+                                         information AddinfType : routeSet : {                                            
+                                             netname "NAT0",                                                              
+                                             rsname  "GOLDDNEPR",                                                         
+                                             adjflag FALSE                                                                
+                                         }                                                                                
+                                     }                                                                                    
+                                 }                                                                                        
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9091,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127548                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass signRouteSetNePart,                                                   
+                                 managedObjectInstance {                                                                  
+                                     mtpSignPointId = numericName : 3,                                                    
+                                     signRouteSetNePartId = bit14 : 6876                                                  
+                                 },                                                                                       
+                                 eventType communicationsAlarm,                                                           
+                                 eventTime "20160202234946",                                                              
+                                 logRecordId number : 127548,                                                             
+                                 loggingTime "20160202234946",                                                            
+                                 packages {                                                                               
+                                     GAAGDA1C.correlatedNotificationsPackage,                                             
+                                     stateChangeDefinitionPackage,                                                        
+                                     GAAGDA1C.additionalInformationPackage, eventTimePackage                              
+                                 },                                                                                       
+                                 probableCause routeSetUnavailable,                                                       
+                                 perceivedSeverity cleared,                                                               
+                                 correlatedNotifications { { correlatedNotifications { 33609968 } } },                    
+                                 stateChangeDefinition {                                                                  
+                                     {                                                                                    
+                                         attributeID       alarmStatus,                                                   
+                                         newAttributeValue SAXBAA0C.AlarmStatus : cleared                                 
+                                     }                                                                                    
+                                 },                                                                                       
+                                 additionalInformation {                                                                  
+                                     {                                                                                    
+                                         identifier  addinfType,                                                          
+                                         information AddinfType : routeSet : {                                            
+                                             netname "NAT0",                                                              
+                                             rsname  "GOLDDNEPR",                                                         
+                                             adjflag FALSE                                                                
+                                         }                                                                                
+                                     }                                                                                    
+                                 }                                                                                        
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9093,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127549                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass signRouteSetNePart,                                                   
+                                 managedObjectInstance {                                                                  
+                                     mtpSignPointId = numericName : 3,                                                    
+                                     signRouteSetNePartId = bit14 : 6876                                                  
+                                 },                                                                                       
+                                 eventType communicationsAlarm,                                                           
+                                 eventTime "20160203054706",                                                              
+                                 logRecordId number : 127549,                                                             
+                                 loggingTime "20160203054806",                                                            
+                                 packages {                                                                               
+                                     notificationIdentifierPackage,                                                       
+                                     GAAGDA1C.additionalInformationPackage, eventTimePackage                              
+                                 },                                                                                       
+                                 probableCause routeSetUnavailable,                                                       
+                                 perceivedSeverity warning,                                                               
+                                 notificationIdentifier 33609969,                                                         
+                                 additionalInformation {                                                                  
+                                     {                                                                                    
+                                         identifier  addinfType,                                                          
+                                         information AddinfType : routeSet : {                                            
+                                             netname "NAT0",                                                              
+                                             rsname  "GOLDDNEPR",                                                         
+                                             adjflag FALSE                                                                
+                                         }                                                                                
+                                     }                                                                                    
+                                 }                                                                                        
+                             }                                                                                            
+ )                                                                                                                        
+--------------------------------------------------------------------------------------------------------------------------
+ M-GET CONFIRMATION (                                                                                                     
+     INVOKE IDENTIFIER       9094,                                                                                        
+     LINKED IDENTIFIER       8868,                                                                                        
+     MANAGED OBJECT CLASS    alarmRecord,                                                                                 
+     MANAGED OBJECT INSTANCE {                                                                                            
+                                 logId = string : "AIALARM",                                                              
+                                 logRecordId = number : 127550                                                            
+                             },                                                                                           
+     CURRENT TIME            "20160203114538",                                                                            
+     ATTRIBUTE LIST          {                                                                                            
+                                 objectClass alarmRecord,                                                                 
+                                 nameBinding logRecord-log,                                                               
+                                 managedObjectClass signRouteSetNePart,                                                   
+                                 managedObjectInstance {                                                                  
+                                     mtpSignPointId = numericName : 3,                                                    
+                                     signRouteSetNePartId = bit14 : 6876                                                  
+                                 },                                                                                       
+                                 eventType communicationsAlarm,                                                           
+                                 eventTime "20160203054811",                                                              
+                                 logRecordId number : 127550,                                                             
+                                 loggingTime "20160203054811",                                                            
+                                 packages {                                                                               
+                                     GAAGDA1C.correlatedNotificationsPackage,                                             
+                                     stateChangeDefinitionPackage,                                                        
+                                     GAAGDA1C.additionalInformationPackage, eventTimePackage                              
+                                 },                                                                                       
+                                 probableCause routeSetUnavailable,                                                       
+                                 perceivedSeverity cleared,                                                               
+                                 correlatedNotifications { { correlatedNotifications { 33609969 } } },                    
+                                 stateChangeDefinition {                                                                  
+                                     {                                                                                    
+                                         attributeID       alarmStatus,                                                   
+                                         newAttributeValue SAXBAA0C.AlarmStatus : cleared                                 
+                                     }                                                                                    
+                                 },                                                                                       
+                                 additionalInformation {                                                                  
+                                     {                                                                                    
+                                         identifier  addinfType,                                                          
+                                         information AddinfType : routeSet : {                                            
+                                             netname "NAT0",                                                              
+                                             rsname  "GOLDDNEPR",                                                         
+                                             adjflag FALSE                                                                
+                                         }                                                                                
+                                     }                                                                                    
+                                 }                                                                                        
+                             }                                                                                            
+ )                                                                                                                        

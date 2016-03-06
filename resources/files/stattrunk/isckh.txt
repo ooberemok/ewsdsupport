@@ -1,0 +1,176 @@
+
+
+*****************************************************************
+
+Execution of GenericApp starts at : 							22/1/2016   9:39:32
+
+*****************************************************************
+
+
+
+
+
+-----------------------------------------------------------------
+
+Start Time		:  Friday, January 22, 2016 09:39:44
+
+-----------------------------------------------------------------
+
+
+5838
+COMMAND SUBMITTED
+
+
+
+ISCKH/AD072T2380E/UKRCPK1V5131P180/103                16-01-22  09:35:57
+5838  NetM         TSURY              3070/00045 
+
+STATTRUNK:TGNO=X,STATSUM=Y;                                     ACCEPTED 
+
+
+INTERRUPTION TEXT JOB  5838
+
+
+CONTINUATION TEXT 0001
+
+ISCKH/AD072T2380E/UKRCPK1V5131P180/103                16-01-22  09:35:58
+5838  NetM         TSURY              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BKIEM   IDLE               27 
+BKIEM   OUT                 4 
+BMINSK  IDLE              110 
+BMINSK  INC                13 
+BMINSK  OUT                 1 
+OLUBA1  IDLE               15 
+BUKOM   IDLE              275 
+BUKOM   INC                 4 
+BASTEL  IDLE               31 
+CSTPLV  MDIU & NMNI         1 
+CSTPLV  NUC  & RNUC         1 
+BGOLDI  IDLE              217 
+NRUSMT  NUC  & RNUC         2 
+CSTPKY  NUC  & RNUC         2 
+BMINS2  IDLE               61 
+BMINS2  INC                 1 
+IEKATE  IDLE              135 
+BMTS12  IDLE               93 
+BKIEUT  IDLE              711 
+BMTS16  IDLE              124 
+BLVIUT  IDLE              213 
+BLVIUT  OUT                61 
+BLVIUT  NUC  & RNUC         1 
+BLVIUT  NUC  & RNUC &       1 
+        C7SF                  
+OEKATE  IDLE              104 
+OEKATE  OUT                 1 
+BAMTS   IDLE              125 
+BAMTS   OUT                11 
+BAMTS   INC                19 
+BMTS05  IDLE              124 
+BBAKU   IDLE               30 
+CSTPL1  MDIU & NMNI         1 
+CSTPL1  NUC  & RNUC         1 
+BSTR10  IDLE               31 
+OSTR10  IDLE               28 
+OSTR10  OUT                 3 
+CSTPK1  NUC  & RNUC         2 
+ISTR10  IDLE               62 
+IMOSC2  IDLE              180 
+ONOVO   IDLE              120
+INTERRUPTION TEXT JOB  5838
+
+
+CONTINUATION TEXT 0002
+
+ISCKH/AD072T2380E/UKRCPK1V5131P180/103                16-01-22  09:36:03
+5838  NetM         TSURY              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+IMOSC   IDLE              289 
+IMOSC   INC                11 
+OKHAB   IDLE               30 
+OROST   IDLE              146 
+OROST   OUT                 4 
+ISTR11  IDLE               62 
+IROST   IDLE              240 
+INOVO   IDLE              150 
+OMOSC   IDLE              353 
+OMOSC   OUT                 7 
+IKHAB   IDLE               60 
+OSTR11  IDLE               27 
+OSTR11  OUT                 4 
+BSTR11  IDLE               31 
+BKIEIS  IDLE              208 
+BKIEIS  OUT                38 
+BDNEUT  IDLE              858 
+BDNEUT  INC                21 
+BDNEUT  OUT                51 
+BRUSM2  INC                 4 
+BRUSM2  IDLE              146 
+BMTTMO  IDLE               28 
+BMTTMO  INC                 1 
+IMOSC5  IDLE              290 
+IMOSC5  INC               130 
+IMOSC5  MOBB & MDIU &      30 
+        NMNI & C7SF           
+ILUBAN  IDLE              240 
+OLUBAN  IDLE              120 
+OMOSC5  IDLE              210 
+ILUBA1  IDLE              103 
+ILUBA1  INC                 2 
+BKIEV   IDLE              659 
+BKIEV   OUT                20 
+BKIEV   INC                 3 
+OMSB    IDLE               30 
+IMSB    IDLE               30 
+ADAS01  IDLE                1 
+ADAS02  IDLE                1 
+ADAS03  IDLE                1 
+ADAS04  IDLE                1
+INTERRUPTION TEXT JOB  5838
+
+
+CONTINUATION TEXT 0003
+
+ISCKH/AD072T2380E/UKRCPK1V5131P180/103                16-01-22  09:36:03
+5838  NetM         TSURY              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+ADAS05  IDLE                1 
+ADAS06  IDLE                1 
+ADAS07  IDLE                1 
+ADAS08  IDLE                1 
+ADAS09  IDLE                1 
+ADAS10  IDLE                1 
+WAKEUP  IDLE                1 
+ADAS12  IDLE                1 
+ADAS13  IDLE                1 
+ADAS14  IDLE                1 
+ADAS16  IDLE                1 
+ADAS17  IDLE                1 
+ADAS15  IDLE                1 
+ADAS19  IDLE                1 
+ADAS20  IDLE                1 
+ADAS21  IDLE                1
+END JOB 5838
+
+
+
+
+
+-----------------------------------------------------------------
+
+End Time		 :  Friday, January 22, 2016 09:40:12
+
+-----------------------------------------------------------------
+

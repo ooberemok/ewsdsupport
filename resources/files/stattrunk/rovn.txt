@@ -1,0 +1,323 @@
+
+
+*****************************************************************
+
+Execution of GenericApp starts at : 							22/1/2016   9:39:47
+
+*****************************************************************
+
+
+
+
+
+-----------------------------------------------------------------
+
+Start Time		:  Friday, January 22, 2016 09:40:04
+
+-----------------------------------------------------------------
+
+
+4644
+COMMAND SUBMITTED
+
+
+
+ROVN/AD072T2011E/UKRCBK1V5131T257/103                 16-01-22  09:36:11
+4644  NetM         TSURY              3070/00045 
+
+STATTRUNK:TGNO=X,STATSUM=Y;                                     ACCEPTED 
+
+
+INTERRUPTION TEXT JOB  4644
+
+
+CONTINUATION TEXT 0001
+
+ROVN/AD072T2011E/UKRCBK1V5131T257/103                 16-01-22  09:36:12
+4644  NetM         TSURY              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+WAKEUP  IDLE                6 
+CATS68  NUC  & RNUC         1 
+BINTE1  IDLE               60 
+BINTE1  INC                 2 
+CSARN   NUC  & RNUC         1 
+CRIVTE  NUC  & RNUC         2 
+IDEMI   IDLE               13 
+IAE23   IDLE               78 
+IAE23   INC                 2 
+CZDOL   NUC  & RNUC         1 
+BZDOL1  IDLE               86 
+BZDOL1  INC                 4 
+BZDOL1  OUT                 2 
+BSIP1   IDLE               31 
+COSTR   NUC  & RNUC         1 
+IAE5    IDLE               82 
+IAE5    INC                 1 
+IAE5    BMNT                2 
+BAT68L  IDLE               59 
+BAT68L  INC                 1 
+BAT68L  OUT                 1 
+BAT681  IDLE               55 
+BAT681  INC                 4 
+BAT681  OUT                 3 
+CRADY   NUC  & RNUC         1 
+BKYS74  IDLE              245 
+BKYS74  OUT                13 
+BKYS74  INC                21 
+BSARN1  IDLE              115 
+BSARN1  OUT                 6 
+BSARN1  INC                 2 
+BLVIV2  IDLE              115 
+BLVIV2  OUT                 1 
+BLVIV2  INC                 8 
+BRIVT1  IDLE              226 
+BRIVT1  OUT                 6 
+BRIVT1  INC                15 
+CKOST   NUC  & RNUC         1 
+BOSTR1  IDLE                6 
+BOSTR1  OUT                 1
+INTERRUPTION TEXT JOB  4644
+
+
+CONTINUATION TEXT 0002
+
+ROVN/AD072T2011E/UKRCBK1V5131T257/103                 16-01-22  09:36:13
+4644  NetM         TSURY              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BOSTR1  IDLE               80 
+BOSTR1  INC                 2 
+BOSTR1  OUT                 4 
+OKY900  IDLE               26 
+OKY900  OUT                 5 
+OZARE   IDLE               25 
+OZARE   OUT                 5 
+BRADY1  IDLE               59 
+BRADY1  INC                 1 
+BRADY1  OUT                 1 
+BATS1L  IDLE              725 
+BATS1L  OUT                42 
+BATS1L  INC                38 
+BKYIV2  IDLE              124 
+IOPER   IDLE                1 
+CDUBR   NUC  & RNUC         1 
+CZDOR   NUC  & RNUC         1 
+BKOST1  IDLE              113 
+BKOST1  INC                 5 
+BKOST1  OUT                 5 
+OAE22   MDIU               19 
+OAE22   BMNT & MDIU         1 
+OAE22   BPRM               23 
+OAE22   BMNT                2 
+BZDOR1  IDLE               30 
+OAE23   IDLE               28 
+OAE23   OUT                 5 
+OAE23   BPRM                1 
+OAE23   AUTO & KILL         1 
+BDUBNV  IDLE                2 
+OAE24   IDLE               34 
+OAE24   OUT                 1 
+BKYS1   IDLE               29 
+BKYS1   INC                 1 
+BKYS1   MOBB                1 
+OAE26   OUT                 5 
+OAE26   IDLE               35 
+OAE28   IDLE               26 
+OAE28   OUT                 3 
+OAE28   AUTO & KILL         1
+INTERRUPTION TEXT JOB  4644
+
+
+CONTINUATION TEXT 0003
+
+ROVN/AD072T2011E/UKRCBK1V5131T257/103                 16-01-22  09:36:14
+4644  NetM         TSURY              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+OAE28   IDLE               10 
+OAE28   OUT                 1 
+CINFO1  NUC  & RNUC         1 
+OAE5    IDLE               32 
+OAE5    OUT                 2 
+OAE5    BMNT                1 
+BINFO1  IDLE               29 
+BINFO1  OUT                 1 
+BKUZNV  IDLE                2 
+ODEMI   IDLE               15 
+CKORE   NUC  & RNUC         1 
+IAE238  IDLE                5 
+BKORE1  IDLE               58 
+BKORE1  OUT                 3 
+BINTE2  IDLE               62 
+BROKY1  IDLE               59 
+BROKY1  OUT                 2 
+IAE58   IDLE                5 
+BDUBR1  IDLE               58 
+BDUBR1  OUT                 2 
+BDUBR1  INC                 1 
+CROKY   NUC  & RNUC         1 
+BUMCS2  IDLE               89 
+BUMCS2  INC                 1 
+BUMCS2  OUT                 3 
+CGOSC   NUC  & RNUC         1 
+BGOSC1  IDLE               55 
+BGOSC1  OUT                 4 
+BGOSC1  INC                 2 
+MKOST   NUC  & RNUC         2 
+CMLYN   NUC  & RNUC         1 
+BGOLD2  IDLE              181 
+BGOLD2  INC                 3 
+BGOLD2  OUT                 2 
+BKUZN1  IDLE               79 
+BKUZN1  INC                 7 
+BKUZN1  OUT                 4 
+IDEMI8  IDLE                2 
+BDNIP1  IDLE               25 
+BDNIP1  OUT                 1
+INTERRUPTION TEXT JOB  4644
+
+
+CONTINUATION TEXT 0004
+
+ROVN/AD072T2011E/UKRCBK1V5131T257/103                 16-01-22  09:36:15
+4644  NetM         TSURY              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BDNIP1  IDLE               98 
+BDNIP1  OUT                 1 
+CKYIT   NUC  & RNUC         1 
+BPGWT1  IDLE              186 
+IZARE   IDLE               29 
+IZARE   INC                 1 
+BMLYN1  IDLE               59 
+BMLYN1  OUT                 1 
+BMLYN1  INC                 1 
+MOPTS   NUC  & RNUC         2 
+CKUZN   NUC  & RNUC         1 
+CODES   NUC  & RNUC         1 
+BVLAD1  IDLE               58 
+BVLAD1  OUT                 3 
+BKYIV1  IDLE              154 
+BKYIV1  INC                 1 
+CVLAD   NUC  & RNUC         1 
+BDUBN1  IDLE               80 
+BDUBN1  OUT                 4 
+BDUBN1  INC                 4 
+BDUBN1  BADM                2 
+CDUBN   NUC  & RNUC         1 
+BOUS27  IDLE              114 
+BOUS27  OUT                 4 
+BOUS27  INC                 5 
+BLVIV1  OUT                17 
+BLVIV1  IDLE              233 
+BLVIV1  INC                25 
+BODES1  IDLE               30 
+COUS27  NUC  & RNUC         1 
+CDATA   NUC  & RNUC         1 
+BDATA1  IDLE               25 
+BDATA1  OUT                 3 
+BDATA1  INC                 2 
+BUTEMG  IDLE                4 
+CBERE   NUC  & RNUC         1 
+BBERE1  INC                 2 
+BBERE1  IDLE               56 
+BBERE1  OUT                 3 
+MGOSC   NUC  & RNUC         2
+INTERRUPTION TEXT JOB  4644
+
+
+CONTINUATION TEXT 0005
+
+ROVN/AD072T2011E/UKRCBK1V5131T257/103                 16-01-22  09:36:16
+4644  NetM         TSURY              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+MKORE   NUC  & RNUC         2 
+MBERE   NUC  & RNUC         2 
+BKYIT1  IDLE               78 
+BKYIT1  OUT                 3 
+BKYIT1  INC                11 
+CPROMZ  NUC  & RNUC         1 
+BPROM1  IDLE               89 
+BPROM1  OUT                 1 
+MVLAD   NUC  & RNUC         2 
+MDUBR   NUC  & RNUC         2 
+MZDOL   NUC  & RNUC         2 
+MOSTR   NUC  & RNUC         2 
+MMLYN   NUC  & RNUC         2 
+MRADY   NUC  & RNUC         2 
+MROKY   NUC  & RNUC         2 
+BPGWT2  IDLE               31 
+MSARN   NUC  & RNUC         2 
+MATS68  NUC  & RNUC         2 
+MOUS27  NUC  & RNUC         2 
+MDATA   NUC  & RNUC         2 
+MINFOC  NUC  & RNUC         2 
+MZDOR   NUC  & RNUC         2 
+MDUBN   NUC  & RNUC         2 
+MKUZN   NUC  & RNUC         2 
+MPROMZ  NUC  & RNUC         2 
+BDNIP2  IDLE               62 
+BUMCS7  IDLE              118 
+BUMCS7  INC                 1 
+BUMCS7  OUT                 5 
+ADAS01  IDLE                1 
+ADAS02  IDLE                1 
+ADAS03  IDLE                1 
+ADAS04  IDLE                1 
+ADAS05  IDLE                1 
+ADAS06  OUT                 1 
+ADAS07  IDLE                1 
+ADAS08  IDLE                1 
+ADAS09  IDLE                1 
+WAKEAN  IDLE                1 
+ADAS11  IDLE                1
+INTERRUPTION TEXT JOB  4644
+
+
+CONTINUATION TEXT 0006
+
+ROVN/AD072T2011E/UKRCBK1V5131T257/103                 16-01-22  09:36:17
+4644  NetM         TSURY              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+ADAS12  IDLE                1 
+ADAS13  IDLE                1 
+ADAS14  IDLE                1 
+ADAS15  IDLE                1 
+ADAS16  IDLE                1 
+ADAS17  IDLE                1 
+ADAS18  IDLE                1 
+ADAS19  IDLE                1 
+ADAS20  IDLE                1
+END JOB 4644
+
+
+
+
+
+-----------------------------------------------------------------
+
+End Time		 :  Friday, January 22, 2016 09:40:26
+
+-----------------------------------------------------------------
+

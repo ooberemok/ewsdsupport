@@ -1,0 +1,501 @@
+
+
+*****************************************************************
+
+Execution of GenericApp starts at : 							22/1/2016   9:39:53
+
+*****************************************************************
+
+
+
+
+
+-----------------------------------------------------------------
+
+Start Time		:  Friday, January 22, 2016 09:40:11
+
+-----------------------------------------------------------------
+
+
+9975
+COMMAND SUBMITTED
+
+
+
+NIKO/AD072T1002E/UKRCPK1V5131P198/000                 16-01-22  09:45:53
+9975  NetM         TSURK              3070/00045 
+
+STATTRUNK:TGNO=X,STATSUM=Y;                                     ACCEPTED 
+
+
+INTERRUPTION TEXT JOB  9975
+
+
+CONTINUATION TEXT 0001
+
+NIKO/AD072T1002E/UKRCPK1V5131P198/000                 16-01-22  09:45:54
+9975  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+IAE217  IDLE               18 
+IAE217  INC                 2 
+IAE216  IDLE                7 
+IAE216  INC                 3 
+CLO41   NUC  & RNUC         2 
+IBEG76  IDLE                1 
+OAE551  OUT                13 
+OAE551  IDLE               31 
+OAE551  AUTO & KILL         1 
+OAE551  BMNT               10 
+CAE60   NUC  & RNUC         1 
+OAE431  IDLE               15 
+BINT94  IDLE               62 
+IAE21   INC                13 
+IAE21   IDLE               57 
+CDIKIY  NUC  & RNUC         2 
+BDIKIY  IDLE               30 
+CBERE1  NUC  & RNUC         1 
+IAE215  INC                12 
+IAE215  IDLE               48 
+OAE341  IDLE               25 
+OAE341  OUT                 5 
+OAE421  OUT                 3 
+OAE421  IDLE               23 
+OAE421  AUTO & IALM         3 
+OAE421  BMNT                1 
+IAE421  IDLE               45 
+IAE421  INC                 5 
+IBRA58  IDLE                2 
+IKAZA1  BPRM                1 
+IKAZA1  IDLE               16 
+ISNI76  IDLE                1 
+OKOORD  IDLE                4 
+OKOORD  OUT                 1 
+CELAN1  NUC  & RNUC         1 
+OBRAT1  OUT                 3 
+OBRAT1  BMNT                2 
+OBRAT1  IDLE                4 
+BAE60   IDLE                7 
+BAE60   INC                 1
+INTERRUPTION TEXT JOB  9975
+
+
+CONTINUATION TEXT 0002
+
+NIKO/AD072T1002E/UKRCPK1V5131P198/000                 16-01-22  09:45:56
+9975  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BAE60   IDLE               51 
+BAE60   OUT                 3 
+CDOMAN  NUC  & RNUC         1 
+BELAN1  IDLE               20 
+BELAN1  OUT                 3 
+BELAN1  INC                 3 
+BPGWT1  IDLE               26 
+BPGWT1  INC                 5 
+COZER1  NUC  & RNUC         1 
+IAE227  AUTO & IALM         1 
+IAE227  IDLE               16 
+IAE227  INC                 3 
+CBASH1  NUC  & RNUC         1 
+IARB76  IDLE                1 
+CUUKR   NUC  & RNUC         1 
+OLOC47  IDLE               62 
+OLOC47  OUT                 4 
+BAE41   IDLE               45 
+BAE41   OUT                10 
+BAE41   INC                 6 
+ISNI09  IDLE                2 
+BUMC17  IDLE              119 
+BUMC17  INC                 5 
+BSTA22  IDLE              233 
+BSTA22  INC                26 
+BSTA22  OUT                20 
+IAE22   INC                16 
+IAE22   IDLE               68 
+IAE22   BMNT                1 
+ILOC47  IDLE               62 
+ILOC47  INC                 7 
+IAE225  IDLE               45 
+IAE225  INC                15 
+BMYKT1  IDLE               29 
+BMYKT1  OUT                 1 
+CATS48  NUC  & RNUC         1 
+MDOMA1  NUC  & RNUC         2 
+IAE237  IDLE               24 
+IAE237  INC                 4 
+BUUKR1  IDLE                1
+INTERRUPTION TEXT JOB  9975
+
+
+CONTINUATION TEXT 0003
+
+NIKO/AD072T1002E/UKRCPK1V5131P198/000                 16-01-22  09:45:58
+9975  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BUUKR1  OUT                 8 
+BUUKR1  IDLE               98 
+BUUKR1  INC                 8 
+OAE211  IDLE               33 
+OAE211  OUT                 6 
+OAE211  BMNT                1 
+OAE221  IDLE               46 
+OAE221  OUT                 2 
+OAE221  BADM                2 
+OAE231  IDLE               39 
+OAE231  OUT                 1 
+OAE241  IDLE               22 
+OAE241  AUTO & KILL         3 
+OAE241  BPRM                2 
+OAE241  OUT                 8 
+OAE251  IDLE               35 
+OAE251  OUT                 3 
+BAE48   IDLE               26 
+BAE48   INC                 2 
+BAE48   OUT                 2 
+IAE23   INC                 9 
+IAE23   IDLE               55 
+OLOC55  IDLE               16 
+OLOC55  OUT                 4 
+CPERV1  NUC  & RNUC         1 
+ISNI58  IDLE                2 
+OAE361  IDLE               36 
+OAE361  OUT                 4 
+BUMCLO  IDLE               30 
+BPERV1  INC                 7 
+BPERV1  IDLE              101 
+BPERV1  OUT                 7 
+IAE236  IDLE               10 
+IAE235  IDLE               47 
+IAE235  INC                11 
+WAKEUP  IDLE                6 
+IAE24   IDLE               71 
+IAE24   INC                 9 
+OBEGO1  IDLE               11 
+OBEGO1  BADM                1
+INTERRUPTION TEXT JOB  9975
+
+
+CONTINUATION TEXT 0004
+
+NIKO/AD072T1002E/UKRCPK1V5131P198/000                 16-01-22  09:46:00
+9975  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+OBEGO1  OUT                 1 
+OBEGO1  IDLE                8 
+OBEGO1  BMNT                1 
+CMPORT  NUC  & RNUC         2 
+OBUG1   IDLE                9 
+OBUG1   AUTO & KILL         1 
+OBUG1   OUT                 1 
+OBUG1   IDLE & IALM         1 
+OBUG1   BPRM                5 
+OBUG1   BMNT                1 
+BGOLD1  IDLE               62 
+OAE631  BPRM               15 
+OAE631  OUT                 4 
+OAE631  IDLE               31 
+OAE601  IDLE               12 
+OAE601  OUT                 1 
+OAE601  BMNT                1 
+BINTUS  IDLE               30 
+BODET1  IDLE               30 
+OKAZA1  OUT                 2 
+OKAZA1  BPRM                4 
+OKAZA1  IDLE               11 
+IAE631  IDLE               74 
+IAE631  INC                 1 
+BPRVUS  IDLE                8 
+IBRA66  IDLE                1 
+IAE245  INC                19 
+IAE245  IDLE               59 
+BBASH1  IDLE               49 
+BBASH1  INC                 3 
+BBASH1  OUT                 4 
+OLOC63  IDLE               50 
+OLOC63  OUT                20 
+OSNIG1  IDLE               17 
+OSNIG1  OUT                 5 
+OSNIG1  BMNT                1 
+BVRAUS  IDLE                4 
+IAE247  IDLE               17 
+IAE247  INC                 3 
+IBEG09  IDLE                2
+INTERRUPTION TEXT JOB  9975
+
+
+CONTINUATION TEXT 0005
+
+NIKO/AD072T1002E/UKRCPK1V5131P198/000                 16-01-22  09:46:02
+9975  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+IKAZ76  IDLE                1 
+IKOORD  IDLE                4 
+IKOORD  INC                 1 
+BINT1   IDLE               60 
+BINT1   INC                 1 
+BINT1   OUT                 1 
+IBRAT1  IDLE               14 
+IBRAT1  INC                 5 
+IAE25   INC                 4 
+IAE25   IDLE               36 
+CVOZN1  NUC  & RNUC         1 
+IAE255  IDLE               28 
+IAE255  INC                 2 
+ILOC55  IDLE               33 
+ILOC55  INC                 2 
+OARBU1  IDLE               10 
+IAE257  IDLE               17 
+IAE257  INC                 3 
+OAE471  IDLE               59 
+OAE471  OUT                 9 
+OAE471  AUTO & KILL         7 
+BKYIV1  IDLE              143 
+BKYIV1  INC                34 
+BKYIV1  OUT                 9 
+IAE34   IDLE              104 
+IAE34   INC                11 
+IAE345  INC                10 
+IAE345  IDLE               40 
+BDOMA1  IDLE               23 
+BDOMA1  INC                 1 
+BDOMA1  OUT                 2 
+IAE346  IDLE               10 
+BBERE1  IDLE               86 
+BBERE1  INC                 1 
+BBERE1  OUT                 1 
+BUKRUS  IDLE                8 
+IAE551  IDLE               81 
+IAE551  INC                 4 
+BKYIT1  IDLE                8 
+BKYIT1  INC                 1
+INTERRUPTION TEXT JOB  9975
+
+
+CONTINUATION TEXT 0006
+
+NIKO/AD072T1002E/UKRCPK1V5131P198/000                 16-01-22  09:46:05
+9975  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BKYIT1  IDLE               64 
+BKYIT1  OUT                11 
+BKYIT1  INC                 9 
+IAE347  IDLE               19 
+IAE347  INC                 1 
+BGOL39  IDLE               49 
+BGOL39  INC                11 
+BGOL39  OUT                 2 
+BGOL39  MDIU               31 
+IBUG76  IDLE                1 
+BVOZN1  IDLE              134 
+BVOZN1  OUT                 5 
+BVOZN1  INC                 5 
+BVOZN1  NSYN & NSYNP&       2 
+        C7SF                  
+OBRAT2  BMNT                3 
+OBRAT2  IDLE                4 
+BAE41L  OUT                85 
+BAE41L  INC                69 
+BAE41L  IDLE              156 
+BAE41L  HOBB & MDIU        31 
+IBRA76  IDLE                1 
+IAE36   IDLE               79 
+IAE36   INC                11 
+IBUG1   IDLE               16 
+IBUG1   INC                 2 
+IBUG1   BPRM                1 
+IBEGO1  IDLE               25 
+IBEGO1  INC                 2 
+IBEGO1  BPRM                1 
+ISNIG1  IDLE               31 
+IAE365  IDLE               58 
+IAE365  INC                 7 
+IAE365  BPRM                1 
+CVESE1  NUC  & RNUC         1 
+BPORT1  IDLE               30 
+IARB09  IDLE                1 
+IAE367  IDLE               17 
+IAE367  INC                 3 
+OMVS1   IDLE                3 
+IAE361  IDLE               16
+INTERRUPTION TEXT JOB  9975
+
+
+CONTINUATION TEXT 0007
+
+NIKO/AD072T1002E/UKRCPK1V5131P198/000                 16-01-22  09:46:06
+9975  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+IAE361  INC                 1 
+IAE361  IDLE               23 
+CKYIT   NUC  & RNUC         1 
+CODET   NUC  & RNUC         1 
+IARBU1  IDLE               15 
+IARBU1  INC                 1 
+CDATAG  NUC  & RNUC         1 
+BDATA1  IDLE               58 
+BDATA1  INC                 2 
+BDATA1  OUT                 1 
+BOZER1  IDLE               83 
+BOZER1  INC                 3 
+BOZER1  OUT                 2 
+IKAZ58  IDLE                2 
+IKAZ66  IDLE                1 
+IBUG58  IDLE                2 
+CZARYA  NUC  & RNUC         2 
+IAE425  INC                 4 
+IAE425  IDLE               56 
+BKY800  IDLE               55 
+BKY800  OUT                 7 
+IARB66  IDLE                1 
+CITC1   NUC  & RNUC         1 
+IAE431  IDLE                9 
+IAE431  INC                 1 
+COCHA1  NUC  & RNUC         1 
+BOCHA1  IDLE              110 
+BOCHA1  INC                 3 
+BOCHA1  OUT                 2 
+BPGWT2  IDLE              184 
+BPGWT2  INC                 2 
+IAE241  IDLE               40 
+IAE241  INC                 3 
+CVRAD1  NUC  & RNUC         1 
+BVRAD1  IDLE               54 
+BVRAD1  OUT                 3 
+IAE232  IDLE                6 
+IAE242  IDLE                7 
+IAE471  IDLE               31 
+IAE471  INC                 1
+INTERRUPTION TEXT JOB  9975
+
+
+CONTINUATION TEXT 0008
+
+NIKO/AD072T1002E/UKRCPK1V5131P198/000                 16-01-22  09:46:08
+9975  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+IAE471  IDLE               51 
+IAE471  INC                 8 
+IAE252  IDLE                3 
+ILOMVS  IDLE                9 
+ILOMVS  INC                 3 
+IAE601  IDLE               16 
+IAE222  IDLE                6 
+BZARA1  IDLE               61 
+BOCHUS  IDLE                8 
+IAE435  IDLE               29 
+IAE435  INC                 1 
+BKYIVM  IDLE              120 
+BKYIVM  OUT                 4 
+BSTAUS  IDLE               30 
+IBUG09  IDLE                2 
+IBRA09  IDLE                2 
+IKAZ09  IDLE                2 
+BDOMUS  IDLE                4 
+OE42    OUT                26 
+OE42    IDLE               94 
+IBEG58  IDLE                2 
+CAE47   NUC  & RNUC         1 
+BAE47   IDLE              127 
+BAE47   OUT                37 
+BAE47   INC                21 
+BVOZUS  IDLE                8 
+OE34    IDLE               30 
+CATS30  NUC  & RNUC         1 
+BAE30   INC                11 
+BAE30   IDLE               35 
+BAE30   OUT                15 
+CNOOD1  NUC  & RNUC         1 
+BNOOD1  IDLE               50 
+BNOOD1  OUT                 4 
+BNOOD1  INC                 3 
+IAE231  IDLE               42 
+IAE231  INC                 2 
+BBASUS  IDLE                5 
+BUKOM1  OUT                 1 
+BUKOM1  IDLE               14
+INTERRUPTION TEXT JOB  9975
+
+
+CONTINUATION TEXT 0009
+
+NIKO/AD072T1002E/UKRCPK1V5131P198/000                 16-01-22  09:46:10
+9975  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BUKOM1  INC                 9 
+BUKOM1  IDLE               66 
+BUKOM1  OUT                 3 
+BOZEUS  IDLE                4 
+ISBU1   IDLE                3 
+IAVNDE  IDLE                8 
+IAVNDE  INC                 2 
+IAE42   IDLE               49 
+IAE42   INC                11 
+IUSS42  IDLE               18 
+IUSS42  BMNT                1 
+IUSS42  INC                 1 
+MNOOD1  NUC  & RNUC         2 
+MBASH1  NUC  & RNUC         2 
+MBERE1  NUC  & RNUC         2 
+MVESE1  NUC  & RNUC         2 
+MELAN1  NUC  & RNUC         2 
+ILOC63  IDLE               30 
+ILOC63  INC                10 
+MVRAD1  NUC  & RNUC         2 
+IUSS43  IDLE               10 
+MITC1   NUC  & RNUC         2 
+MOZER1  NUC  & RNUC         2 
+MPORT1  NUC  & RNUC         2 
+MDIKIY  NUC  & RNUC         2 
+IARB58  IDLE                1 
+MVOZN1  NUC  & RNUC         2 
+MAE481  NUC  & RNUC         2 
+MAE601  NUC  & RNUC         2 
+MATS47  NUC  & RNUC         2 
+MAE301  NUC  & RNUC         2 
+MOCHA1  NUC  & RNUC         2 
+OSERV1  IDLE                5 
+MPERV1  NUC  & RNUC         2 
+IAE55   INC                28 
+IAE55   IDLE               47 
+MUUKR1  NUC  & RNUC         2 
+MDATA1  NUC  & RNUC         2 
+BLVIV1  IDLE               61 
+BLVIV1  OUT                 1
+INTERRUPTION TEXT JOB  9975
+

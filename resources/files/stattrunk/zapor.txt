@@ -1,0 +1,640 @@
+
+
+*****************************************************************
+
+Execution of GenericApp starts at : 							22/1/2016   9:39:50
+
+*****************************************************************
+
+
+
+
+
+-----------------------------------------------------------------
+
+Start Time		:  Friday, January 22, 2016 09:40:07
+
+-----------------------------------------------------------------
+
+
+8665
+COMMAND SUBMITTED
+
+
+
+ZAPOR/T297E#PS169/UKRCPK1V5131.087/103                16-01-22  09:36:10
+8665  NetM         TSURK              3070/00045 
+
+STATTRUNK:TGNO=X,STATSUM=Y;                                     ACCEPTED 
+
+
+INTERRUPTION TEXT JOB  8665
+
+
+CONTINUATION TEXT 0001
+
+ZAPOR/T297E#PS169/UKRCPK1V5131.087/103                16-01-22  09:36:11
+8665  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+CATCTS  NUC  & RNUC         1 
+OATC34  IDLE               55 
+OATC34  OUT                 5 
+BKIEVU  IDLE               40 
+BKIEVU  OUT                22 
+IKVAN6  IDLE                6 
+OKAMED  IDLE               84 
+OKAMED  OUT                 7 
+OKAMED  BADM                2 
+OATC32  IDLE               47 
+OATC32  OUT                 3 
+CKIEVT  NUC  & RNUC         1 
+VESEBR  IDLE                2 
+IATC35  IDLE               55 
+BVOLJN  INC                 7 
+BVOLJN  OUT                 7 
+BVOLJN  IDLE               65 
+CVOLJN  NUC  & RNUC         1 
+IATC65  IDLE              102 
+IATC65  INC                 8 
+OATC62  IDLE               51 
+OATC62  OUT                 4 
+OROZOD  IDLE               20 
+OROZOD  BPRM                2 
+OROZOD  OUT                 2 
+BAT764  IDLE              268 
+BAT764  OUT                 4 
+BAT764  INC                 7 
+OATC63  IDLE               34 
+OATC63  OUT                 1 
+OATC65  IDLE               66 
+OATC65  OUT                 2 
+OATC65  BMNT                2 
+KUJBBR  IDLE                2 
+SIPDP   IDLE               26 
+SIPDP   INC                 4 
+SIPDP   OUT                 1 
+OATC35  IDLE               54 
+OATC35  OUT                 1 
+MARIUP  IDLE               30
+INTERRUPTION TEXT JOB  8665
+
+
+CONTINUATION TEXT 0002
+
+ZAPOR/T297E#PS169/UKRCPK1V5131.087/103                16-01-22  09:36:12
+8665  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+KAMEBR  IDLE                4 
+BVASIL  IDLE              248 
+BVASIL  OUT                 4 
+BVASIL  NUC  & RNUC         1 
+BVASIL  INC                 7 
+BATCTS  IDLE              121 
+BATCTS  INC                 1 
+BATCTS  OUT                 1 
+BKIEVI  IDLE              248 
+OMIHAJ  IDLE                9 
+BAKIMO  IDLE              108 
+BAKIMO  OUT                 2 
+BAKIMO  INC                 2 
+PRIMBR  IDLE                4 
+BOMEGA  IDLE               30 
+IOPERP  IDLE               10 
+OTESD1  IDLE                8 
+SUMC    NUC  & RNUC         2 
+BHULJA  IDLE              105 
+BHULJA  INC                 5 
+BHULJA  OUT                 1 
+BENERG  IDLE              268 
+BENERG  INC                10 
+BENERG  NUC  & RNUC         1 
+BENERG  OUT                11 
+SCST    NUC  & RNUC         2 
+CENERG  NUC  & RNUC         1 
+BPOLOG  IDLE              165 
+BPOLOG  NUC  & RNUC         1 
+BPOLOG  OUT                 3 
+BPOLOG  INC                 3 
+CHULJA  NUC  & RNUC         1 
+UKRCOM  IDLE               31 
+CPOLOG  NUC  & RNUC         1 
+SAKIM0  NUC  & RNUC         2 
+BATC23  IDLE              269 
+BATC23  INC                33 
+BATC23  OUT                 6 
+BATC23  NUC  & RNUC         2 
+OTESD2  IDLE                8
+INTERRUPTION TEXT JOB  8665
+
+
+CONTINUATION TEXT 0003
+
+ZAPOR/T297E#PS169/UKRCPK1V5131.087/103                16-01-22  09:36:13
+8665  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+CMARIU  NUC  & RNUC         1 
+OBELOD  IDLE               23 
+OBELOD  OUT                 1 
+BMTS2   IDLE              189 
+BMTS2   INC                14 
+BMTS2   OUT                14 
+OTESD3  IDLE                8 
+OOPERN  IDLE                5 
+IATC62  IDLE               90 
+IATC62  INC                 5 
+BKIRIL  IDLE              215 
+OREH09  IDLE                6 
+BERDBR  IDLE                5 
+BERDBR  INC                 1 
+BKIEV   IDLE              244 
+BKIEV   INC                 4 
+BDNEPI  IDLE              229 
+BDNEPI  INC                 9 
+BDNEPI  OUT                10 
+BKIEVT  IDLE              117 
+BKIEVT  OUT                22 
+BKIEVT  INC                15 
+TOKMBR  IDLE                7 
+IATC68  IDLE               62 
+IATC68  INC                 3 
+SOPT30  NUC  & RNUC         2 
+OVESED  OUT                 4 
+OVESED  IDLE               37 
+OVESED  BMNT                2 
+OVESED  BPRM                2 
+BTOKMA  IDLE              178 
+BTOKMA  INC                11 
+BTOKMA  NUC  & RNUC         1 
+BTOKMA  OUT                 6 
+BMTS7   IDLE              197 
+BMTS7   INC                10 
+BMTS7   OUT                10 
+OREHBR  IDLE                3 
+MELIBR  IDLE               12 
+OPRIMO  IDLE                3
+INTERRUPTION TEXT JOB  8665
+
+
+CONTINUATION TEXT 0004
+
+ZAPOR/T297E#PS169/UKRCPK1V5131.087/103                16-01-22  09:36:15
+8665  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+OPRIMO  BMNT                1 
+OPRIMO  IDLE                8 
+OPRIMO  BADM                3 
+CTOKMA  NUC  & RNUC         2 
+OROZOV  IDLE                4 
+OROZOV  OUT                 1 
+OROZOV  BMNT                1 
+IATC67  IDLE               55 
+IATC67  INC                 4 
+POLOBR  IDLE                5 
+BUKOML  IDLE              248 
+BUKOML  OUT                13 
+BUKOML  INC                18 
+BOREHO  IDLE              128 
+BOREHO  INC                 7 
+BOREHO  NUC  & RNUC         1 
+BOREHO  OUT                 6 
+TEST    IDLE               60 
+MIHABR  IDLE                2 
+WELTON  IDLE               62 
+COREHO  NUC  & RNUC         2 
+KSFIX   IDLE               60 
+KSFIX   OUT                 1 
+KSFIX   INC                 1 
+BATC78  INC                13 
+BATC78  IDLE              443 
+BATC78  OUT                 7 
+STOKM0  NUC  & RNUC         2 
+BNOVON  IDLE               79 
+BNOVON  INC                 1 
+BNOVON  OUT                 2 
+IATC34  INC                 6 
+IATC34  IDLE               84 
+VASIBR  IDLE                6 
+ENERBR  IDLE                5 
+IROZOV  IDLE               38 
+IROZOV  INC                 2 
+IROZOV  BADM                2 
+CATC78  NUC  & RNUC         2 
+SBERDJ  NUC  & RNUC         2
+INTERRUPTION TEXT JOB  8665
+
+
+CONTINUATION TEXT 0005
+
+ZAPOR/T297E#PS169/UKRCPK1V5131.087/103                16-01-22  09:36:15
+8665  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+OATC67  IDLE               53 
+OATC67  OUT                 2 
+OMIHAD  IDLE               51 
+OMIHAD  OUT                 2 
+OMIHAD  BMNT                1 
+OATC68  IDLE               52 
+OATC68  OUT                 3 
+BELOBR  IDLE                2 
+CATCWL  NUC  & RNUC         1 
+IDNPIP  IDLE              212 
+IDNPIP  INC                 5 
+IATC95  IDLE               80 
+IATC95  INC                 5 
+BODESM  IDLE               30 
+CVASIL  NUC  & RNUC         1 
+SSUMTS  IDLE                6 
+CODESM  NUC  & RNUC         1 
+CERNBR  IDLE                2 
+ROZOBR  IDLE                1 
+BPRIAZ  IDLE              138 
+BPRIAZ  INC                 3 
+BPRIAZ  OUT                 2 
+CATC24  NUC  & RNUC         2 
+MIHA75  IDLE                2 
+IATC49  IDLE               28 
+IATC49  INC                 2 
+IVESEL  IDLE               25 
+IVESEL  INC                 5 
+IVESEL  BADM                2 
+OTESD4  IDLE                6 
+ROZO75  IDLE                2 
+ICERNI  IDLE               33 
+ICERNI  INC                 3 
+ICERNI  BPRM                1 
+NOVOBR  IDLE                4 
+IPRIAD  IDLE               15 
+IATC52  IDLE               95 
+IATC52  INC                 5 
+BVOIP   INC                 2 
+BVOIP   IDLE                7
+INTERRUPTION TEXT JOB  8665
+
+
+CONTINUATION TEXT 0006
+
+ZAPOR/T297E#PS169/UKRCPK1V5131.087/103                16-01-22  09:36:17
+8665  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BVOIP   INC                10 
+BVOIP   IDLE               44 
+CPRIAZ  NUC  & RNUC         1 
+OCERND  IDLE               45 
+AKIMBR  IDLE                4 
+BPRIMO  IDLE              163 
+BPRIMO  NUC  & RNUC         1 
+BPRIMO  INC                 6 
+BPRIMO  OUT                 1 
+KAME75  IDLE                2 
+OTEST1  IDLE                8 
+OAT32M  IDLE               10 
+OTEST2  IDLE                8 
+53UMTS  IDLE                2 
+VOLJBR  IDLE                5 
+CNOVON  NUC  & RNUC         1 
+BATC24  OUT                23 
+BATC24  IDLE              233 
+BATC24  INC                22 
+BATS24  IDLE              274 
+BATS24  INC                48 
+BATS24  OUT                49 
+OTEST3  IDLE                8 
+BLVOVN  IDLE              175 
+BLVOVN  INC                 1 
+BLVOVN  OUT                10 
+CBERD   NUC  & RNUC         1 
+OTEST4  IDLE                6 
+SOPTS2  NUC  & RNUC         2 
+PRIABR  IDLE                4 
+CAKIMO  NUC  & RNUC         2 
+BELO75  IDLE                1 
+TOKM09  IDLE               10 
+HULJ09  IDLE                6 
+CHARKA  NUC  & RNUC         1 
+UMCFIX  IDLE               30 
+CUS     NUC  & RNUC         8 
+CUS     IDLE               12 
+KAME09  IDLE                6 
+SKIRL0  NUC  & RNUC         2
+INTERRUPTION TEXT JOB  8665
+
+
+CONTINUATION TEXT 0007
+
+ZAPOR/T297E#PS169/UKRCPK1V5131.087/103                16-01-22  09:36:18
+8665  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+CUMCF   NUC  & RNUC         1 
+VASI09  IDLE               10 
+SAKIM1  NUC  & RNUC         2 
+BHARKT  IDLE               30 
+IPRIMM  IDLE               15 
+CERN75  IDLE                2 
+OATC49  IDLE               20 
+IAT96M  IDLE               42 
+IAT96M  INC                 3 
+BLVOVI  IDLE              124 
+31UMTS  IDLE                2 
+OATCS9  IDLE                5 
+ENER09  IDLE               12 
+OATC42  IDLE               52 
+OATC42  OUT                 3 
+MELI09  IDLE               21 
+MELI09  INC                 1 
+IOPERA  IDLE               10 
+POLO09  IDLE                6 
+OAT63M  IDLE               23 
+OAT63M  OUT                 2 
+BBERD   IDLE              465 
+BBERD   NUC  & RNUC         1 
+BBERD   OUT                14 
+BBERD   INC                17 
+BERD09  IDLE               21 
+OKUJBO  IDLE               36 
+OKUJBO  OUT                 1 
+CCST    NUC  & RNUC         1 
+OATC58  IDLE               49 
+OATC58  OUT                 1 
+SOPT31  NUC  & RNUC         2 
+IKUJBM  INC                 3 
+IKUJBM  IDLE               24 
+OATC52  OUT                 3 
+OATC52  IDLE               57 
+IAT63M  IDLE               53 
+IAT63M  INC                 7 
+STITSV  NUC  & RNUC         2 
+SKIRL1  NUC  & RNUC         2
+INTERRUPTION TEXT JOB  8665
+
+
+CONTINUATION TEXT 0008
+
+ZAPOR/T297E#PS169/UKRCPK1V5131.087/103                16-01-22  09:36:19
+8665  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+SMELIT  NUC  & RNUC         2 
+SNOVON  NUC  & RNUC         2 
+BDNEPU  IDLE              568 
+BDNEPU  INC                48 
+BDNEPU  OUT                60 
+IATSS9  IDLE               14 
+IATSS9  INC                 1 
+IATCS9  IDLE               15 
+OATSS9  IDLE               24 
+OATSS9  OUT                 1 
+IAT32M  IDLE               46 
+IAT32M  INC                 4 
+PRIM09  IDLE                8 
+IBELOS  IDLE               11 
+IBELOS  BADM                2 
+IBELOS  INC                 1 
+NOVO09  IDLE                4 
+BDNPIP  IDLE              130 
+BDNPIP  OUT                25 
+AKIM09  IDLE                4 
+PRIA09  IDLE                5 
+VOLJ09  IDLE                6 
+IKAMEN  IDLE              102 
+IKAMEN  INC                 1 
+IKAMEN  BADM                2 
+BELO09  IDLE                3 
+IAKIMD  IDLE               20 
+OAKIM1  IDLE                8 
+OAKIM1  BPRM                1 
+OAKIM1  BADM                1 
+MIHA09  IDLE                4 
+CERN09  IDLE                4 
+IAT42M  IDLE               42 
+IAT42M  INC                 3 
+BGOLDN  IDLE              334 
+BGOLDN  INC                 4 
+BGOLDN  OUT                 3 
+VESE09  IDLE                4 
+IATCAZ  IDLE               30 
+OATCAZ  IDLE               24
+INTERRUPTION TEXT JOB  8665
+
+
+CONTINUATION TEXT 0009
+
+ZAPOR/T297E#PS169/UKRCPK1V5131.087/103                16-01-22  09:36:20
+8665  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+OATCAZ  OUT                 1 
+OATCAZ  IDLE                5 
+KUJB09  IDLE                4 
+ROZO09  IDLE                2 
+09BELO  IDLE               10 
+09VESE  IDLE               10 
+HULJBR  IDLE                4 
+09KAME  IDLE                5 
+IMIHAM  IDLE               51 
+IMIHAM  INC                 3 
+OOPER   IDLE               60 
+09KUJB  IDLE                5 
+BATCWL  IDLE               55 
+BATCWL  OUT                 2 
+BATCWL  INC                 4 
+09MIHA  IDLE               10 
+WAKEUP  IDLE                4 
+09ROZO  IDLE                5 
+09CERN  IDLE               10 
+SOREH0  NUC  & RNUC         2 
+OPRIA1  IDLE               14 
+OPRIA1  OUT                 1 
+CKIRIL  NUC  & RNUC         2 
+CMELIT  NUC  & RNUC         1 
+BMELIT  IDLE              562 
+BMELIT  OUT                30 
+BMELIT  INC                21 
+BMELIT  NUC  & RNUC         1 
+OATC95  IDLE               51 
+OATC95  OUT                 4 
+OATC96  IDLE               54 
+OATC96  OUT                 1 
+OATC97  IDLE               29 
+OATC97  OUT                 1 
+OATC99  IDLE               15 
+CPRIMO  NUC  & RNUC         1 
+BATC77  IDLE              695 
+BATC77  OUT                19 
+BATC77  INC                28 
+CATC77  NUC  & RNUC         2
+INTERRUPTION TEXT JOB  8665
+
+
+CONTINUATION TEXT 0010
+
+ZAPOR/T297E#PS169/UKRCPK1V5131.087/103                16-01-22  09:36:21
+8665  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+CSTNAT  IDLE               82 
+IATC97  IDLE               29 
+IATC97  INC                 1 
+CSTINT  IDLE               10 
+OVOLJD  IDLE               15 
+IVOLJD  IDLE               15 
+SPRMAG  IDLE               10 
+75UMTS  IDLE                2 
+43UMTS  IDLE                2 
+45UMTS  IDLE                2 
+92UMTS  IDLE                2 
+44UMTS  IDLE                2 
+41UMTS  IDLE                2 
+INTERN  IDLE               92 
+INTERN  INC                 1 
+33UMTS  IDLE                2 
+37UMTS  IDLE                2 
+65UMTS  IDLE                2 
+78UMTS  IDLE                2 
+39UMTS  IDLE                2 
+COMEGA  NUC  & RNUC         1 
+NUC224  BADM               11 
+NUC224  IDLE               20 
+INTERM  IDLE               31 
+KSMG42  IDLE              327 
+KSMG42  OUT                45 
+KSMG42  INC                31 
+VESE75  IDLE                2 
+KUJB75  IDLE                2 
+SPOLOG  NUC  & RNUC         2 
+SPRIAZ  NUC  & RNUC         2 
+SOREH1  NUC  & RNUC         2 
+SPRIMO  NUC  & RNUC         2 
+SVASIL  NUC  & RNUC         2 
+SWELT   NUC  & RNUC         2 
+STOKM1  NUC  & RNUC         2 
+SVOLJN  NUC  & RNUC         2 
+SHPOLE  NUC  & RNUC         2 
+SENERG  NUC  & RNUC         2 
+SOMEGA  NUC  & RNUC         2
+INTERRUPTION TEXT JOB  8665
+
+
+CONTINUATION TEXT 0011
+
+ZAPOR/T297E#PS169/UKRCPK1V5131.087/103                16-01-22  09:36:22
+8665  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+ROZ021  IDLE                1 
+ROZ022  IDLE                1 
+BEL021  IDLE                1 
+BEL022  IDLE                1 
+ANS10   OUT                 1 
+ANS11   IDLE                1 
+ANS12   IDLE                1 
+ANS13   IDLE                1 
+ANS14   IDLE                1 
+ANS15   IDLE                1 
+ANS16   IDLE                1 
+ANS17   IDLE                1 
+ANS18   IDLE                1 
+ANS19   IDLE                1 
+ANS20   IDLE                1 
+ANS21   IDLE                1 
+ANS22   IDLE                1 
+ANS23   IDLE                1 
+ANS24   IDLE                1 
+ANS25   IDLE                1 
+ANS26   IDLE                1 
+ANS27   IDLE                1 
+ANS28   IDLE                1 
+ANS29   IDLE                1 
+DITO01  OUT                 1 
+DITO02  IDLE                1 
+DITO03  IDLE                1 
+DITO04  IDLE                1 
+DITO05  IDLE                1 
+DITO06  IDLE                1 
+DITO07  IDLE                1 
+DITO08  IDLE                1 
+DITO09  IDLE                1 
+DITO10  OUT                 1 
+DITO11  IDLE                1 
+DITO12  IDLE                1 
+DITO13  IDLE                1 
+DITO14  IDLE                1 
+DITO15  IDLE                1 
+DITO16  IDLE                1
+INTERRUPTION TEXT JOB  8665
+
+
+CONTINUATION TEXT 0012
+
+ZAPOR/T297E#PS169/UKRCPK1V5131.087/103                16-01-22  09:36:23
+8665  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+DITO17  IDLE                1 
+DITO18  IDLE                1 
+DITO19  IDLE                1 
+DITO20  IDLE                1 
+DITO21  IDLE                1 
+DITO22  IDLE                1 
+DITO23  IDLE                1 
+DITO24  IDLE                1 
+DITO25  IDLE                1 
+DITO26  IDLE                1 
+DITO27  OUT                 1 
+DITO28  IDLE                1 
+DITO29  IDLE                1 
+DITO30  IDLE                1
+END JOB 8665
+
+
+
+
+
+-----------------------------------------------------------------
+
+End Time		 :  Friday, January 22, 2016 09:40:36
+
+-----------------------------------------------------------------
+

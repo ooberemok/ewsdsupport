@@ -1,0 +1,311 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:300,400,700);
+body{
+margin:0;
+padding:0;
+font-family: "Lato";
+
+}
+
+html, body, #container{
+height:100%;
+width:1024px;
+margin:0 auto;
+}
+body > #container{
+height:auto;
+min-height:100%;
+
+}
+#container{
+
+background:white;
+box-shadow:0 0 12px;
+}
+
+/*        HEADER
+---------------------------------*/
+#header{
+
+clear:both;
+	margin:0 0 0 0;
+	padding:0;
+	height:50px;
+	border-bottom:1px solid #4CAF50;
+	
+/*background:gray url("../../resources/images/ukrtel.png") right no-repeat;	*/
+}
+#header > p{
+margin-right:30px;
+display:inline;
+}
+
+#leftbar{
+	float:left;
+	width:9%;
+	margin:0;
+	
+}
+
+
+#content-tgrp{
+
+padding:15px 15px 170px;
+margin:0 auto;
+overflow:auto;
+}
+#content{
+padding:15px 15px 170px;
+margin:0 auto;
+}
+#content-alarmcp{
+padding:15px 15px 170px;
+margin:0 auto;
+}
+
+/*         NAV
+-------------------------*/
+#nav{
+position:fixed;
+top:0;
+padding:10px 0;
+box-shadow:2px 2px 2px;
+width:1024px;
+background:white;
+display:block;
+margin-top:0;
+margin-bottom:7px;
+z-index:200;
+box-shadow:0 0 12px;
+}
+#nav > a {
+    
+    color:#666;
+}
+
+#nav ul{
+
+list-style-type: none;
+	margin:0;
+	padding:0;
+  display:inline;  
+	
+
+}
+#nav ul  li{
+/*float:left;*/
+
+padding-left:10px;
+display:inline-block;
+
+}
+
+#nav ul li a{
+display: block;
+color: gray;
+    text-align: center;
+    text-decoration: none;
+	font-size:16px;
+    font-weight:bold;
+ 
+    
+}
+#nav ul li a:hover{
+    color:#3e3e3e;
+    
+}
+/*    LINKS on index page
+--------------------------------*/
+.options img{
+border-radius: 50px;
+	-webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+     box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+}
+.options img:hover{
+    box-shadow: 15px 15px 15px rgba(0,0,0,5);
+}
+ul.options {
+list-style-type: none;
+}
+
+/*   FOOTER
+------------------------------*/
+
+#footer{
+	clear:both;
+position:relative;
+
+height:170px;
+margin-top:-170px;
+border-top:1px solid gray;
+font-size:16px;
+font-weight:bold;
+color:gray;
+background:#e8e8e8;
+box-shadow:0 0 12px #494949;
+/*background:gray url("../../resources/images/ukrtel.png") right no-repeat;*/
+
+}
+ #footer ul{
+list-style-type: none;
+	margin:0;
+	padding:0;
+}
+ #footer a{
+color: gray;
+    text-align: center;
+    margin-left:20px;
+    text-decoration: none;
+}
+ #footer a:hover{
+color:#3e3e3e;
+}
+#footer p{
+color:gray;
+}
+
+div.linetext {
+    text-align: center;
+    position: relative;
+    margin-top:50px;
+}
+.linetext span {
+    display: inline-block;    
+}
+.linetext span:before,
+.linetext span:after {
+    border-top: 1px solid black;
+    display: block;
+    height: 1px;
+    content: " ";
+    width: 40%;
+    position: absolute;
+    left: 0;
+    top: 1.2em;
+}
+.linetext span:after {
+   right: 0;  
+   left: auto; 
+}
+
+/*  CSSMENU on dailyalarmmp -> leftside
+----------------------------------------*/
+
+#cssmenu{
+    font-weight:bold;
+    margin-top:20px;
+}
+#cssmenu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 130px;
+    
+}
+
+#cssmenu li a {
+    display: block;
+    color: #000;
+    padding: 8px 0 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+#cssmenu li a:hover {
+    background-color: #555;
+    color: white;
+    border-left:6px solid green;
+}
+#cssmenu li a:active {
+    background-color: #4CAF50;
+    color: yellow;
+    border-left:6px solid green;
+}
+
+
+
+/*    applies on selected items
+------------------*/
+.select{
+color:#666;
+border-bottom:1px solid black;
+
+}
+.selectoptions{
+color:white;
+
+}
+.selected{
+
+color:black;
+font-weight:bold;
+border-bottom:2px solid black;
+
+}
+.btn-color{
+background:#7e7e7e;
+color:white;
+}
+
+
+/*   TABLES
+-----------------------*/
+table{
+margin-top:20px;
+border-collapse:collapse;
+text-align:right;
+table-layout:fixed;
+color:#323232;
+box-shadow: 0 0 12px rgba(0,0,0,0.8);
+}
+caption{
+background:lightgray;
+box-shadow: 0 0 12px rgba(0,0,0,0.8);
+}
+.tbody-even{
+background:#ddd;
+}
+
+th{
+background-color: #606060;
+    color: white;
+font-size:14px;
+}
+td{height:25px;}
+th{height:50px;}
+td,th{
+text-align:center;
+
+}
+table td.exchange{
+text-align:left;
+
+
+}
+tr{
+/*border-top:1px solid gray;*/
+}
+table th,td{
+width:62px;
+/*padding:0 5px;*/
+}
+td:hover{
+background-color:#515151;
+color:white;
+}
+
+/*   INPUT tags
+--------------*/
+
+input{
+    text-decoration:none;
+    display:inline-block;
+    background:white;
+    color:black;
+    font-weight:bold;
+    
+}
+input:hover{
+    color:white;
+    background:#666;
+}

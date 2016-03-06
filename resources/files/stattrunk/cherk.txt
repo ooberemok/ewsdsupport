@@ -1,0 +1,395 @@
+
+
+*****************************************************************
+
+Execution of GenericApp starts at : 							22/1/2016   9:39:34
+
+*****************************************************************
+
+
+
+
+
+-----------------------------------------------------------------
+
+Start Time		:  Friday, January 22, 2016 09:39:48
+
+-----------------------------------------------------------------
+
+
+5976
+COMMAND SUBMITTED
+
+
+
+CHERK/1428E#PS173/UKRCPK1V5131.011/113                16-01-22  09:36:00
+5976  NetM         TSURK              3070/00045 
+
+STATTRUNK:TGNO=X,STATSUM=Y;                                     ACCEPTED 
+
+
+INTERRUPTION TEXT JOB  5976
+
+
+CONTINUATION TEXT 0001
+
+CHERK/1428E#PS173/UKRCPK1V5131.011/113                16-01-22  09:36:00
+5976  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+CKATER  NUC  & RNUC         2 
+OAT32   IDLE              283 
+OAT32   OUT                47 
+IAT32   IDLE              302 
+IAT32   INC                48 
+BSSKST  IDLE               30 
+CSHPOL  NUC  & RNUC         2 
+IAT457  INC                 5 
+IAT457  IDLE               70 
+IAT455  IDLE               42 
+IAT455  INC                 2 
+IAT455  IDLE & KILL         1 
+BINTEL  IDLE              242 
+BINTEL  OUT                59 
+BINTEL  INC                40 
+UKHRIS  NUC  & RNUC         1 
+OAT45S  IDLE               28 
+OAT45S  BMNT                1 
+OAT45S  OUT                 1 
+BKATER  IDLE               28 
+BKATER  INC                 1 
+BKATER  OUT                 1 
+IAT45   INC                17 
+IAT45   BADM                1 
+IAT45   IDLE              102 
+OAT64S  IDLE               28 
+OAT64S  OUT                 1 
+OAT64S  AUTO & IALM         1 
+OAT63S  IDLE               26 
+OAT63S  OUT                 3 
+OAT65S  IDLE               29 
+OAT66S  IDLE               28 
+OAT66S  OUT                 2 
+IMRU    IDLE               20 
+CTAL    NUC  & RNUC         2 
+BAT54   INC                12 
+BAT54   OUT                18 
+BAT54   IDLE              186 
+CUTEL   NUC  & RNUC         2 
+CZOL    NUC  & RNUC         2
+INTERRUPTION TEXT JOB  5976
+
+
+CONTINUATION TEXT 0002
+
+CHERK/1428E#PS173/UKRCPK1V5131.011/113                16-01-22  09:36:02
+5976  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BZOL    IDLE               54 
+BZOL    INC                 5 
+BZOL    OUT                 1 
+CSMEL   NUC  & RNUC         2 
+BSMEL   IDLE               54 
+BSMEL   INC                 4 
+BSMEL   OUT                 2 
+BUTEL   IDLE              260 
+BUTEL   INC                 8 
+BUTEL   OUT                10 
+BTAL    IDLE               56 
+BTAL    INC                 3 
+BTAL    BMNT                1 
+WAKEUP  IDLE                6 
+IAT456  IDLE              110 
+IAT456  INC                10 
+OUSS    IDLE               54 
+OUSS    BMNT               20 
+OUSS    OUT                 1 
+IAT454  IDLE               53 
+IAT454  INC                 7 
+OMAN    IDLE               29 
+OMAN    OUT                 1 
+CMON    NUC  & RNUC         2 
+UMON    NUC  & RNUC         1 
+OAT32S  OUT                 5 
+OAT32S  IDLE               55 
+IAT32S  IDLE               59 
+IAT32S  INC                 1 
+CKIEAM  NUC  & RNUC         1 
+CODEAM  NUC  & RNUC         1 
+BKIEAM  IDLE               30 
+BODEAM  IDLE               30 
+BINTMO  IDLE               31 
+CCHIG   NUC  & RNUC         2 
+IUSS    IDLE               50 
+IAT664  IDLE               89 
+IAT664  INC                 1 
+CULUS   NUC  & RNUC         1 
+BCHIG   IDLE                7
+INTERRUPTION TEXT JOB  5976
+
+
+CONTINUATION TEXT 0003
+
+CHERK/1428E#PS173/UKRCPK1V5131.011/113                16-01-22  09:36:05
+5976  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BCHIG   OUT                 1 
+BCHIG   IDLE               21 
+BCHIG   INC                 1 
+CUAT36  NUC  & RNUC         8 
+UDRAB   NUC  & RNUC         1 
+IAT63   IDLE              161 
+IAT63   INC                18 
+IAT63   BPRM                1 
+IAT64   IDLE              141 
+IAT64   INC                37 
+IAT64   AUTO & IALM         2 
+IAT64   NUC  & RNUC         1 
+IAT65   IDLE              164 
+IAT65   INC                16 
+IAT66   IDLE              153 
+IAT66   INC                26 
+IAT66   BPRM                1 
+CKAMEN  NUC  & RNUC         2 
+IAT646  IDLE               80 
+IAT646  INC                10 
+CAT36   NUC  & RNUC         2 
+CKORS   NUC  & RNUC         2 
+BAT36S  IDLE               83 
+BAT36S  INC                 5 
+BAT36S  OUT                 5 
+BAT36   IDLE              543 
+BAT36   OUT               101 
+BAT36   INC                99 
+ODITO   IDLE               29 
+ODITO   OUT                 1 
+CZVEN   NUC  & RNUC         2 
+CUMAN   NUC  & RNUC         2 
+IMAN    IDLE               29 
+IMAN    INC                 1 
+OAT64   IDLE              140 
+OAT64   OUT                36 
+OAT64   BPRM                2 
+OAT64   BMNT                2 
+BKAMEN  IDLE               16 
+BKAMEN  INC                 1
+INTERRUPTION TEXT JOB  5976
+
+
+CONTINUATION TEXT 0004
+
+CHERK/1428E#PS173/UKRCPK1V5131.011/113                16-01-22  09:36:06
+5976  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BKAMEN  OUT                 2 
+BKAMEN  INC                 2 
+BKAMEN  IDLE                8 
+CKANEV  NUC  & RNUC         2 
+UGHASH  NUC  & RNUC         1 
+BUMAN   IDLE               52 
+BUMAN   OUT                 3 
+BUMAN   INC                 3 
+BUMAN   NUC  & RNUC         1 
+BKORS   IDLE               28 
+BKORS   INC                 1 
+IMRUS   IDLE               10 
+UKORS   NUC  & RNUC         1 
+BKIEIP  IDLE               80 
+BKIEIP  OUT                13 
+UTALN   NUC  & RNUC         1 
+UUMAN   NUC  & RNUC         1 
+USHPOL  NUC  & RNUC         1 
+BMON    IDLE               28 
+BMON    INC                 1 
+UKAMEN  NUC  & RNUC         1 
+CUAT71  NUC  & RNUC         7 
+IAT630  IDLE               28 
+IAT630  INC                 2 
+UKANEV  NUC  & RNUC         1 
+IAT650  IDLE               30 
+IAT660  IDLE               30 
+CLUS    NUC  & RNUC         2 
+BLUS    IDLE               28 
+BLUS    OUT                 1 
+OAT65   IDLE              166 
+OAT65   OUT                14 
+CAT71   NUC  & RNUC         2 
+CAT55   NUC  & RNUC         2 
+BAT55   IDLE              132 
+BAT55   INC                15 
+BAT55   OUT                 8 
+BAT55S  IDLE               17 
+BAT55S  OUT                 1 
+BAT55S  INC                 1
+INTERRUPTION TEXT JOB  5976
+
+
+CONTINUATION TEXT 0005
+
+CHERK/1428E#PS173/UKRCPK1V5131.011/113                16-01-22  09:36:09
+5976  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BAT55S  IDLE               10 
+BAT55S  INC                 1 
+BAT71   IDLE             1065 
+BAT71   OUT                87 
+BAT71   INC                86 
+BAT71S  IDLE              149 
+BAT71S  OUT                 6 
+OAT63   IDLE              125 
+OAT63   OUT                24 
+OAT63   BMNT                1 
+BKANEV  IDLE               28 
+BKANEV  INC                 1 
+IAT654  IDLE               85 
+IAT654  INC                 5 
+BSIP    IDLE               25 
+BSIP    OUT                 6 
+OSS7    NUC  & RNUC        21 
+CGHASH  NUC  & RNUC         2 
+BGHASH  IDLE               57 
+BGHASH  INC                 1 
+BGHASH  OUT                 2 
+OAT66   IDLE              150 
+OAT66   OUT                27 
+OAT66   BMNT                2 
+OAT66   BPRM                1 
+CCHER   NUC  & RNUC         2 
+BCHER   IDLE               25 
+BCHER   INC                 5 
+BZVEN   IDLE               27 
+BZVEN   INC                 3 
+CUSMEL  NUC  & RNUC         1 
+CUZOL   NUC  & RNUC         1 
+CUAT55  NUC  & RNUC         1 
+OAT45   OUT                47 
+OAT45   IDLE              191 
+OAT45   BPRM                2 
+IAT634  IDLE               78 
+IAT634  INC                11 
+IAT634  BPRM                1 
+CKHRIS  NUC  & RNUC         2
+INTERRUPTION TEXT JOB  5976
+
+
+CONTINUATION TEXT 0006
+
+CHERK/1428E#PS173/UKRCPK1V5131.011/113                16-01-22  09:36:10
+5976  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BKHRIS  IDLE               27 
+BKHRIS  OUT                 1 
+BKHRIS  INC                 1 
+BSSZOL  IDLE               30 
+BSSZOL  OUT                 1 
+BSHPOL  IDLE               17 
+BSHPOL  INC                 7 
+BSHPOL  OUT                 5 
+IAT640  IDLE               29 
+IAT640  INC                 1 
+IG1509  IDLE                1 
+IAT451  INC                 1 
+IAT451  IDLE               29 
+BSSCHI  IDLE               31 
+OUS008  IDLE               15 
+OUS008  BMNT                5 
+BSSSME  IDLE               28 
+BSSSME  OUT                 1 
+BSSSME  INC                 2 
+BSSKAM  IDLE               30 
+BSSKAM  OUT                 1 
+BSSSHP  IDLE               30 
+BSSSHP  OUT                 1 
+UAT71   NUC  & RNUC         1 
+IAT32D  IDLE               10 
+BGOLD   IDLE               92 
+BGOLD   INC                 1 
+CDATA   NUC  & RNUC         1 
+BDATA   INC                 3 
+BDATA   IDLE               21 
+BDATA   OUT                 6 
+CDRAB   NUC  & RNUC         2 
+BDRAB   IDLE               26 
+BDRAB   INC                 2 
+BDRAB   OUT                 1 
+BSSDRA  IDLE               31 
+IBSSGO  IDLE                5 
+BSSGHA  IDLE               29 
+BSSGHA  OUT                 2 
+BSSMON  IDLE               17
+INTERRUPTION TEXT JOB  5976
+
+
+CONTINUATION TEXT 0007
+
+CHERK/1428E#PS173/UKRCPK1V5131.011/113                16-01-22  09:36:11
+5976  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BSSMON  INC                 1 
+BSSMON  IDLE               12 
+BSSMON  OUT                 1 
+BSSUMA  OUT                 2 
+BSSUMA  IDLE               29 
+BSSKOR  IDLE               31 
+BSSZVE  IDLE               30 
+BSSZVE  OUT                 1 
+BSSKAN  IDLE               31 
+BSSKAT  IDLE               29 
+BSSKAT  OUT                 2 
+BSSLUS  IDLE               31 
+IBSSMA  IDLE               25 
+BSSTAL  IDLE               30 
+BSSTAL  OUT                 1 
+BSSKHR  IDLE               31 
+BSSCHE  IDLE               31 
+ISSG08  IDLE                5 
+ISSGOR  IDLE                4 
+ISSGOR  IDLE & FRCD &       5 
+        IALM                  
+OSSGOR  IDLE                3 
+OSSGOR  BPRM                1 
+OSSGOR  OUT                 1 
+OSSMAN  IDLE                5 
+CUKCOM  NUC  & RNUC         2 
+BUKCOM  IDLE               60 
+BUKCOM  INC                 1 
+BKSTAR  IDLE              124
+END JOB 5976
+
+
+
+
+
+-----------------------------------------------------------------
+
+End Time		 :  Friday, January 22, 2016 09:40:19
+
+-----------------------------------------------------------------
+

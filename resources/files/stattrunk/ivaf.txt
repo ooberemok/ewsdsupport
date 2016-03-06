@@ -1,0 +1,428 @@
+
+
+*****************************************************************
+
+Execution of GenericApp starts at : 							22/1/2016   9:39:52
+
+*****************************************************************
+
+
+
+
+
+-----------------------------------------------------------------
+
+Start Time		:  Friday, January 22, 2016 09:40:10
+
+-----------------------------------------------------------------
+
+
+8987
+COMMAND SUBMITTED
+
+
+
+IVAF/AD072T1001E/UKRCBK1V5131S509/110                 16-01-22  09:36:17
+8987  NetM         TSURY              3070/00045 
+
+STATTRUNK:TGNO=X,STATSUM=Y;                                     ACCEPTED 
+
+
+INTERRUPTION TEXT JOB  8987
+
+
+CONTINUATION TEXT 0001
+
+IVAF/AD072T1001E/UKRCBK1V5131S509/110                 16-01-22  09:36:18
+8987  NetM         TSURY              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+OSUBOP  IDLE               15 
+ISUBOP  IDLE               15 
+OOPSUB  IDLE               15 
+IOPSUB  IDLE               15 
+COPTS   NUC  & RNUC         2 
+CUNIVR  NUC  & RNUC         1 
+IOPTOP  IDLE                5 
+IA2     IDLE               30 
+IA2     INC                 1 
+IA3     AUTO & IALM         1 
+IA3     IDLE               24 
+IA4     IDLE               60 
+IA6     IDLE               57 
+IA6     INC                 5 
+IBOGO1  IDLE                1 
+CYAREM  NUC  & RNUC         1 
+CUTIM   NUC  & RNUC         1 
+OVSERV  IDLE                6 
+BUNIV1  IDLE                5 
+BUNIV1  OUT                 1 
+IVSERV  IDLE               24 
+IGORO1  BPRM                1 
+IGORO1  IDLE                3 
+BKALU0  IDLE                2 
+BUNI1L  IDLE               24 
+BINTD2  IDLE              124 
+CNAZIS  NUC  & RNUC         1 
+BYAREM  IDLE               86 
+BYAREM  OUT                 1 
+IGALI1  IDLE                1 
+BPGWT1  IDLE              461 
+BPGWT1  INC                 4 
+BNAZI1  IDLE               29 
+BNAZI1  INC                 1 
+IIREM1  IDLE                1 
+CBURSH  NUC  & RNUC         1 
+IKALU1  IDLE                1 
+BKYIVS  IDLE               30 
+BKYIVS  OUT                 1 
+IKOLO1  BPRM                1
+INTERRUPTION TEXT JOB  8987
+
+
+CONTINUATION TEXT 0002
+
+IVAF/AD072T1001E/UKRCBK1V5131S509/110                 16-01-22  09:36:21
+8987  NetM         TSURY              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BUTIM   IDLE               30 
+IKOSO1  IDLE                1 
+BKYIVT  IDLE               76 
+BKYIVT  OUT                12 
+BKYIVT  INC                 4 
+CODEST  NUC  & RNUC         1 
+MOPTS   NUC  & RNUC         4 
+CKALU   NUC  & RNUC         1 
+BKALU1  IDLE              128 
+BKALU1  OUT                14 
+BKALU1  INC                 2 
+BKALU1  BBAC                1 
+BYARE0  IDLE                2 
+INADV1  IDLE                1 
+M71     NUC  & RNUC         2 
+M37     NUC  & RNUC         2 
+IPOLLS  IDLE               11 
+BBOLE0  IDLE                2 
+CTLUM   NUC  & RNUC         1 
+IROGA1  IDLE                1 
+BPGWT2  IDLE               29 
+BPGWT2  INC                 2 
+IROGN1  BPRM                1 
+BIVAT2  IDLE                7 
+ISNIA1  IDLE                1 
+M38     NUC  & RNUC         2 
+CVPZ    NUC  & RNUC         1 
+ITISM1  IDLE                1 
+BIVAT1  IDLE              164 
+BIVAT1  OUT                38 
+BIVAT1  INC                14 
+ITLUM1  IDLE                1 
+BLVIV1  OUT                16 
+BLVIV1  IDLE              271 
+BLVIV1  INC                19 
+M32     NUC  & RNUC         2 
+IVERK1  IDLE                1 
+BDNIP1  IDLE               92 
+BDNIP1  OUT                 1 
+BODET1  IDLE               30
+INTERRUPTION TEXT JOB  8987
+
+
+CONTINUATION TEXT 0003
+
+IVAF/AD072T1001E/UKRCBK1V5131S509/110                 16-01-22  09:36:23
+8987  NetM         TSURY              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BVPZ1   IDLE               29 
+BVPZ1   INC                 1 
+M31     NUC  & RNUC         2 
+BMTS7   IDLE              142 
+BMTS7   INC                10 
+BMTS7   OUT                 3 
+BKS13   INC                27 
+BKS13   IDLE              267 
+BKS13   OUT                16 
+OA2     IDLE               34 
+OA2     BPRM                1 
+OA2     OUT                 3 
+OA3     IDLE               29 
+OA3     BPRM                1 
+OA4     IDLE               65 
+OA4     OUT                 5 
+OA6     IDLE               66 
+OA6     OUT                 3 
+OA6     BPRM                1 
+BVPZ1L  IDLE               61 
+BVPZ1L  OUT                 1 
+M30     NUC  & RNUC         2 
+BMTS2   IDLE              111 
+BMTS2   OUT                 8 
+BMTS2   INC                 5 
+BTTK7L  IDLE               86 
+BTTK7L  OUT                 4 
+CROGN   NUC  & RNUC         1 
+M77     NUC  & RNUC         2 
+BITEL2  IDLE               62 
+M72     NUC  & RNUC         2 
+M33     NUC  & RNUC         2 
+IDOLI1  IDLE                1 
+WAKEUP  IDLE                4 
+CKYIVT  NUC  & RNUC         1 
+M78     NUC  & RNUC         2 
+M75     NUC  & RNUC         2 
+M35     NUC  & RNUC         2 
+IVKSL   IDLE               11 
+BLVIV0  IDLE                4
+INTERRUPTION TEXT JOB  8987
+
+
+CONTINUATION TEXT 0004
+
+IVAF/AD072T1001E/UKRCBK1V5131S509/110                 16-01-22  09:36:25
+8987  NetM         TSURY              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BITEL3  IDLE               58 
+BITEL3  OUT                 1 
+BITEL3  INC                 3 
+M74     NUC  & RNUC         2 
+M76     NUC  & RNUC         2 
+M36     NUC  & RNUC         2 
+CVERK   NUC  & RNUC         1 
+M79     NUC  & RNUC         2 
+BVERK1  IDLE               59 
+CSNIAT  NUC  & RNUC         1 
+CBOLEK  NUC  & RNUC         1 
+BBOLEK  IDLE               54 
+BBOLEK  INC                 2 
+CGOROD  NUC  & RNUC         1 
+BOPT1L  IDLE              220 
+BOPT1L  INC                11 
+BOPT1L  OUT                 8 
+CBOGO   NUC  & RNUC         1 
+M34     NUC  & RNUC         2 
+BBOGO1  IDLE               84 
+BBOGO1  OUT                 4 
+BBOGO1  INC                 1 
+MTTK7   NUC  & RNUC         2 
+MVPZ    NUC  & RNUC         2 
+MUNIV   NUC  & RNUC         2 
+BUCOM2  IDLE              113 
+BUCOM2  INC                 9 
+BUCOM2  OUT                 2 
+IBURS1  IDLE                1 
+MUTIM   NUC  & RNUC         2 
+IPOLL   IDLE               15 
+CTYSM   NUC  & RNUC         1 
+BTYSM1  IDLE               85 
+BTYSM1  OUT                 4 
+CROGA   NUC  & RNUC         1 
+BROGA1  IDLE               51 
+BROGA1  OUT                 5 
+BROGA1  INC                 2 
+BKSTAR  IDLE               62 
+IA2L    INC                 1
+INTERRUPTION TEXT JOB  8987
+
+
+CONTINUATION TEXT 0005
+
+IVAF/AD072T1001E/UKRCBK1V5131S509/110                 16-01-22  09:36:27
+8987  NetM         TSURY              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+IA2L    IDLE               36 
+IA2L    INC                 4 
+IA3L    IDLE               40 
+IA3L    INC                 3 
+IA3L    AUTO & IALM         2 
+IA4L    IDLE               79 
+IA4L    INC                 9 
+IA6L    IDLE              104 
+IA6L    INC                11 
+OA3L    IDLE               38 
+OA3L    BPRM                3 
+OA3L    OUT                 4 
+OA4L    IDLE               52 
+OA4L    OUT                 8 
+OA4L    MDIU & NMNI        30 
+OA6L    IDLE               86 
+OA6L    OUT                 2 
+OA6L    BMNT                1 
+OA6L    BPRM                1 
+ODV99Z  IDLE                5 
+OA2L    IDLE               57 
+OA2L    BPRM                2 
+OA2L    OUT                 1 
+CDOLY   NUC  & RNUC         1 
+MNAZIS  NUC  & RNUC         2 
+MOPTIM  NUC  & RNUC         2 
+BDOLY1  IDLE               84 
+BDOLY1  INC                 2 
+BDOLY1  OUT                 2 
+BKYIV1  IDLE              102 
+BKYIV1  INC                22 
+BROGN1  IDLE               85 
+BROGN1  OUT                 2 
+BROGN1  INC                 2 
+BSNIA1  IDLE               82 
+BSNIA1  OUT                 4 
+BSNIA1  INC                 3 
+IDV99Z  IDLE                5 
+IDV99M  IDLE                5 
+IDV99M  INC                 1
+INTERRUPTION TEXT JOB  8987
+
+
+CONTINUATION TEXT 0006
+
+IVAF/AD072T1001E/UKRCBK1V5131S509/110                 16-01-22  09:36:29
+8987  NetM         TSURY              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+IDV99M  IDLE                4 
+ODV99M  IDLE                8 
+ODV99M  OUT                 1 
+BSIP1   IDLE               31 
+CKOLOM  NUC  & RNUC         1 
+BATS1L  IDLE              257 
+BATS1L  OUT                35 
+BATS1L  INC                17 
+BATS1L  INC  & IALM         1 
+BKOLO1  IDLE              133 
+BKOLO1  OUT                 9 
+BKOLO1  INC                 6 
+ITSTSO  IDLE                1 
+CKOSIV  NUC  & RNUC         1 
+BKOSIV  IDLE              114 
+BKOSIV  OUT                 4 
+BKOSIV  INC                 2 
+IVKS    IDLE                8 
+OVKS    IDLE                5 
+OVKSL   IDLE                6 
+CNADV   NUC  & RNUC         1 
+IVKT    IDLE                5 
+IVKTL   IDLE                9 
+OVKT    IDLE                5 
+OVKTL   IDLE                9 
+BNADV1  IDLE              113 
+BNADV1  INC                 3 
+BNADV1  OUT                 3 
+BNADV9  IDLE                3 
+BNADV9  INC                 1 
+BTTK7   IDLE               61 
+CTTK7   NUC  & RNUC         1 
+BKOLO9  INC                 2 
+BKOLO9  IDLE                4 
+COPTIM  NUC  & RNUC         1 
+BSNIA9  IDLE                3 
+BKOSI9  IDLE                2 
+BKOSI9  INC                 1 
+BBOGO9  IDLE                3 
+BROGN9  IDLE                3
+INTERRUPTION TEXT JOB  8987
+
+
+CONTINUATION TEXT 0007
+
+IVAF/AD072T1001E/UKRCBK1V5131S509/110                 16-01-22  09:36:31
+8987  NetM         TSURY              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BKALU9  IDLE                7 
+BDOLY9  IDLE                4 
+BVERK9  IDLE                2 
+BYARE9  IDLE                3 
+BROGA9  IDLE                3 
+BTYSM9  IDLE                3 
+BBOLE9  IDLE                3 
+BBURS1  IDLE               88 
+BBURS1  INC                 1 
+BBURS9  IDLE                3 
+BATS09  IDLE               20 
+BATS09  MOBB                3 
+CGALY   NUC  & RNUC         1 
+BGALY1  IDLE               55 
+BGALY1  OUT                 2 
+BGALY1  INC                 1 
+BGORO1  IDLE               48 
+BGORO1  OUT                 4 
+BGORO1  INC                 6 
+BTLUM1  IDLE               58 
+BTLUM9  IDLE                3 
+BGALY9  IDLE                3 
+BGORO9  IDLE                3 
+BINTL3  IDLE              173 
+BINTL3  INC                12 
+BINTL3  OUT                 1 
+BINTK1  IDLE              246 
+BINTK1  OUT                 2 
+BGOLD2  IDLE              181 
+BGOLD2  OUT                 2 
+BGOLD2  INC                 3 
+ADAS01  IDLE                1 
+ADAS02  IDLE                1 
+ADAS03  IDLE                1 
+ADAS04  IDLE                1 
+ADAS05  IDLE                1 
+ADAS06  IDLE                1 
+ADAS07  IDLE                1 
+ADAS08  IDLE                1 
+ADAS09  IDLE                1
+INTERRUPTION TEXT JOB  8987
+
+
+CONTINUATION TEXT 0008
+
+IVAF/AD072T1001E/UKRCBK1V5131S509/110                 16-01-22  09:36:32
+8987  NetM         TSURY              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+ADAS10  IDLE                1 
+WAKEAN  IDLE                1 
+CATAON  IDLE                1 
+ADAS14  IDLE                1 
+DIVND   IDLE                1 
+ADAS19  IDLE                2 
+ADAS17  IDLE                1 
+ADAS18  IDLE                1 
+ADAS20  IDLE                1 
+ADAS11  IDLE                1
+END JOB 8987
+
+
+
+
+
+-----------------------------------------------------------------
+
+End Time		 :  Friday, January 22, 2016 09:40:40
+
+-----------------------------------------------------------------
+

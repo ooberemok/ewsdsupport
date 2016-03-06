@@ -1,0 +1,269 @@
+
+
+*****************************************************************
+
+Execution of GenericApp starts at : 							22/1/2016   9:39:46
+
+*****************************************************************
+
+
+
+
+
+-----------------------------------------------------------------
+
+Start Time		:  Friday, January 22, 2016 09:40:03
+
+-----------------------------------------------------------------
+
+
+3508
+COMMAND SUBMITTED
+
+
+
+KRIV/AD072T1006E/UKRCBK1V5131T193/000                 16-01-22  09:36:09
+3508  NetM         TSURK              3070/00045 
+
+STATTRUNK:TGNO=X,STATSUM=Y;                                     ACCEPTED 
+
+
+INTERRUPTION TEXT JOB  3508
+
+
+CONTINUATION TEXT 0001
+
+KRIV/AD072T1006E/UKRCBK1V5131T193/000                 16-01-22  09:36:10
+3508  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+IAE21   IDLE               28 
+IAE21   INC                 2 
+IAE22   IDLE               48 
+IAE22   INC                 2 
+IAE26   IDLE               29 
+IAE26   INC                 1 
+IAE27   IDLE               35 
+IAE28   IDLE               29 
+IAE28   MPRT                1 
+IA71L3  IDLE               60 
+IAE35   IDLE               45 
+IAE36   IDLE               30 
+IA71L5  IDLE               60 
+IAE64   IDLE               49 
+IAE64   INC                 1 
+IAE51   IDLE               50 
+IAE53   IDLE               59 
+IAE53   INC                 1 
+TEST    IDLE               26 
+TEST    MPRT                1 
+TEST    OUT                 1 
+IAE66   IDLE               35 
+IAE66   INC                 1 
+IAE71   IDLE               67 
+IAE71   INC                 1 
+IAE71   IDLE & IALM         2 
+IAE72   INC                 1 
+IAE72   IDLE               29 
+IAE65   IDLE               62 
+IAE65   INC                 3 
+IA71L2  IDLE               60 
+OSUBOP  IDLE               17 
+CTS1    NUC  & RNUC         1 
+IAE38   IDLE               50 
+OAE21   IDLE               27 
+OAE21   BPRM                1 
+OAE21   OUT                 2 
+OAE22   IDLE               37 
+OAE22   OUT                 3 
+OAE26   IDLE               17
+INTERRUPTION TEXT JOB  3508
+
+
+CONTINUATION TEXT 0002
+
+KRIV/AD072T1006E/UKRCBK1V5131T193/000                 16-01-22  09:36:13
+3508  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+OAE26   OUT                 1 
+OAE26   IDLE               11 
+OAE26   AUTO & KILL         1 
+OAE27   IDLE               55 
+OAE28   IDLE               29 
+OAE28   OUT                 1 
+BATS1L  IDLE              542 
+BATS1L  OUT                11 
+BATS1L  INC                 4 
+OAE35   IDLE               29 
+OAE35   OUT                 1 
+OAE36   IDLE               29 
+OAE36   OUT                 1 
+BDNIT2  IDLE               23 
+BDNIT2  INC                 2 
+BDNIT2  OUT                 2 
+OAE64   IDLE               33 
+OAE64   OUT                 6 
+OAE64   BPRM                1 
+OAE51   IDLE               38 
+OAE51   OUT                 2 
+OAE53   IDLE               44 
+OAE53   OUT                 1 
+OAE65   IDLE               55 
+OAE66   IDLE               37 
+OAE66   OUT                 3 
+OAE71   IDLE               45 
+OAE71   OUT                 3 
+OAE71   BPRM                2 
+OAE72   IDLE               30 
+OAE74   IDLE               46 
+OAE74   OUT                 4 
+ICAT15  IDLE                1 
+IA71L6  IDLE               60 
+OCAT15  IDLE                1 
+ISUBOP  IDLE               17 
+OAE38   IDLE               39 
+OAE38   OUT                 1 
+IA53L6  IDLE               60 
+CTS2    NUC  & RNUC         1
+INTERRUPTION TEXT JOB  3508
+
+
+CONTINUATION TEXT 0003
+
+KRIV/AD072T1006E/UKRCBK1V5131T193/000                 16-01-22  09:36:17
+3508  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+OHOT    IDLE               10 
+HOTEL   IDLE               10 
+IA53L7  IDLE               60 
+IA64L7  IDLE               59 
+IA64L7  INC                 1 
+IA51L6  IDLE               50 
+IA51L7  IDLE               38 
+IA51L7  INC                 2 
+WAKEUP  IDLE                6 
+IA36L7  IDLE               20 
+IA36L7  IDLE & IALM        20 
+BATS2L  IDLE              551 
+BATS2L  OUT                18 
+BATS2L  NUC  & RNUC         1 
+BATS2L  INC                16 
+BAETS2  IDLE              124 
+IA38L6  IDLE               29 
+IA38L6  INC                 1 
+IA38L7  IDLE               25 
+IA36L6  IDLE               29 
+IA36L6  IDLE & IALM        10 
+IA36L6  INC                 1 
+IA66L7  IDLE               59 
+IA66L7  INC                 1 
+IA26L7  IDLE               49 
+IA26L7  INC                 1 
+IOSS68  IDLE                2 
+IA28L7  IDLE               29 
+IA28L7  INC                 1 
+IA28L6  IDLE               30 
+IA21L6  IDLE               39 
+IA21L6  BPRM                1 
+IA21L7  IDLE               49 
+IA21L7  INC                 1 
+IA65L7  IDLE               59 
+IA65L7  INC                 1 
+OAE92   IDLE               84 
+OAE92   OUT                 6 
+IA35L6  IDLE               50 
+IA35L7  IDLE               50
+INTERRUPTION TEXT JOB  3508
+
+
+CONTINUATION TEXT 0004
+
+KRIV/AD072T1006E/UKRCBK1V5131T193/000                 16-01-22  09:36:19
+3508  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BDNIP1  OUT                20 
+BDNIP1  IDLE              319 
+BDNIP1  INC                 3 
+CDNIPR  NUC  & RNUC         1 
+BDNI1P  IDLE               43 
+BDNI1P  OUT                 2 
+BDNI1T  IDLE               15 
+IA27L6  IDLE               29 
+IA27L6  INC                 1 
+IA27L7  IDLE               60 
+IA72L6  IDLE               30 
+IA74L6  IDLE               48 
+IA74L6  INC                 2 
+IAE95   IDLE               59 
+IAE95   INC                 1 
+OAE95   IDLE               56 
+OAE95   OUT                 4 
+IA26L6  IDLE               37 
+IA26L6  INC                 3 
+BINTER  IDLE               62 
+OOPSUB  IDLE               12 
+OOPSUB  MPRT                5 
+IOPSUB  IDLE               17 
+CDNIPT  NUC  & RNUC         1 
+BDNIT1  IDLE              244 
+BDNIT1  INC                33 
+BDNIT1  NUC  & RNUC         1 
+BDNIT1  OUT                 2 
+BDNIT1  MOBB & MDIU        31 
+IAE74   IDLE               52 
+IAE74   INC                 3 
+ADAS01  IDLE                1 
+ADAS02  IDLE                1 
+ADAS03  IDLE                1 
+ADAS04  IDLE                1 
+ADAS05  IDLE                1 
+ADAS06  IDLE                1 
+ADAS07  IDLE                1 
+ADAS08  IDLE                1 
+ADAS09  IDLE                1
+INTERRUPTION TEXT JOB  3508
+
+
+CONTINUATION TEXT 0005
+
+KRIV/AD072T1006E/UKRCBK1V5131T193/000                 16-01-22  09:36:20
+3508  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+ADAS10  IDLE                1 
+ADAS14  IDLE                1 
+ADAS15  IDLE                1 
+ADAS16  IDLE                1 
+ADAS19  IDLE                1 
+WAKEAN  IDLE                1 
+ADAS11  IDLE                1
+END JOB 3508
+
+
+
+
+
+-----------------------------------------------------------------
+
+End Time		 :  Friday, January 22, 2016 09:40:33
+
+-----------------------------------------------------------------
+

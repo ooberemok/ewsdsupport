@@ -1,0 +1,586 @@
+
+
+*****************************************************************
+
+Execution of GenericApp starts at : 							22/1/2016   9:39:30
+
+*****************************************************************
+
+
+
+
+
+-----------------------------------------------------------------
+
+Start Time		:  Friday, January 22, 2016 09:39:38
+
+-----------------------------------------------------------------
+
+
+0839
+COMMAND SUBMITTED
+
+
+
+CHEOP/1430E#PS139/UKRCPK1V5131/345/013                16-01-22  09:35:50
+0839  NetM         TSURK              3070/00045 
+
+STATTRUNK:TGNO=X,STATSUM=Y;                                     ACCEPTED 
+
+
+INTERRUPTION TEXT JOB  0839
+
+
+CONTINUATION TEXT 0001
+
+CHEOP/1430E#PS139/UKRCPK1V5131/345/013                16-01-22  09:35:51
+0839  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+ODITO   IDLE               28 
+ODITO   OUT                 2 
+IAE726  IDLE               30 
+ZSL27   IDLE               60 
+MG45    OUT                63 
+MG45    IDLE               49 
+MG45    INC                12 
+IAE722  IDLE               29 
+IAE722  INC                 1 
+CTSIU   NUC  & RNUC         2 
+BTSIU   INC                 7 
+BTSIU   OUT                 3 
+BTSIU   IDLE               70 
+BODUMC  IDLE              145 
+BODUMC  INC                10 
+ATS42   IDLE              141 
+ATS42   OUT                16 
+ATS42   INC                26 
+TSU104  IDLE                2 
+IAE727  IDLE               30 
+BKIEAM  IDLE              102 
+BKIEAM  INC                 6 
+BKIEAM  OUT                15 
+IAE751  IDLE               30 
+BODEAM  IDLE               30 
+IAE723  IDLE               20 
+BA104   IDLE                1 
+BA104   BPRM                1 
+GOP104  IDLE                2 
+BEL104  IDLE                2 
+BSKAD   IDLE              174 
+BSKAD   INC                 3 
+BSKAD   OUT                 1 
+NKA104  IDLE                2 
+KAH104  IDLE                2 
+CATE42  NUC  & RNUC         1 
+ZSL26   IDLE               71 
+ZSL26   INC                 4 
+CKIEAM  NUC  & RNUC         1 
+CODEAM  NUC  & RNUC         1
+INTERRUPTION TEXT JOB  0839
+
+
+CONTINUATION TEXT 0002
+
+CHEOP/1430E#PS139/UKRCPK1V5131/345/013                16-01-22  09:35:53
+0839  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+CSKAD   NUC  & RNUC         2 
+GRN103  IDLE                2 
+IAE729  IDLE               40 
+OAE51L  IDLE               81 
+OAE51L  OUT                 9 
+BSIPZ   IDLE               60 
+BSIPZ   INC                 2 
+IAE51L  INC                13 
+IAE51L  IDLE               77 
+GEN104  IDLE                2 
+ROG109  IDLE                4 
+WAKEUP  IDLE                6 
+IATS22  IDLE               71 
+IATS22  INC                 4 
+OATS22  IDLE               78 
+OATS22  OUT                12 
+OATS26  IDLE               86 
+OATS26  OUT                 4 
+IATS26  IDLE               71 
+IATS26  INC                 4 
+IAE239  IDLE              114 
+IAE239  INC                 6 
+O3180   IDLE                1 
+SKA104  IDLE                2 
+BER104  IDLE                2 
+OATS27  IDLE               89 
+OATS27  OUT                 1 
+IATS27  IDLE               77 
+IATS27  INC                 3 
+OATS23  IDLE               57 
+OATS23  OUT                 3 
+IATS23  IDLE               59 
+IATS23  INC                 1 
+IATS29  IDLE               53 
+IATS29  INC                 7 
+OATS29  IDLE               55 
+OATS29  OUT                 5 
+O3182   IDLE                2 
+O3182L  IDLE                5 
+O3182L  OUT                 1
+INTERRUPTION TEXT JOB  0839
+
+
+CONTINUATION TEXT 0003
+
+CHEOP/1430E#PS139/UKRCPK1V5131/345/013                16-01-22  09:35:54
+0839  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+O3182L  IDLE                5 
+OTST11  IDLE               30 
+ITST11  IDLE               30 
+O3180L  IDLE                2 
+KLN104  IDLE                2 
+ISKAKM  IDLE                2 
+IKAHKM  IDLE                2 
+I3180   IDLE                3 
+I3180   BPRM                1 
+BKISTM  IDLE              193 
+BKISTM  INC                12 
+BKISTM  OUT                12 
+SLM23   IDLE               29 
+SLM23   OUT                 1 
+SLM23   BADM               15 
+SLM29   IDLE               30 
+SLM29   BADM               15 
+I3182   IDLE                7 
+I3182   INC                 3 
+ITSU42  IDLE               28 
+BGOPRI  IDLE              170 
+BGOPRI  OUT                 7 
+BGOPRI  INC                 1 
+CGOPRI  NUC  & RNUC         2 
+LPTOBZ  IDLE                3 
+IBER46  IDLE               28 
+BDNEPL  IDLE               90 
+BDNEPL  INC                15 
+BDNEPL  OUT                19 
+GRNOBZ  IDLE                3 
+ISKA37  IDLE               26 
+HPLOBZ  IDLE                2 
+HPLOBZ  BPRM                1 
+BALOBZ  IDLE                3 
+IVAOBZ  IDLE                2 
+IVAOBZ  BPRM                1 
+ROGOBZ  BPRM                1 
+ZSL51   IDLE               43 
+ZSL51   INC                 2 
+IGEN34  IDLE               26
+INTERRUPTION TEXT JOB  0839
+
+
+CONTINUATION TEXT 0004
+
+CHEOP/1430E#PS139/UKRCPK1V5131/345/013                16-01-22  09:35:56
+0839  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+SLM51   IDLE               26 
+SLM51   OUT                 4 
+SLM51   BADM               15 
+BAL104  IDLE                2 
+CATS38  NUC  & RNUC         1 
+ATS38   IDLE               48 
+ATS38   OUT                 6 
+ATS38   INC                 7 
+ZSLGRN  IDLE               33 
+ZSLGRN  INC                 1 
+SLMGRN  IDLE               14 
+SLMGRN  OUT                 3 
+MG38    IDLE               58 
+MG38    INC                 2 
+VSKOBZ  IDLE                3 
+ZSLHPL  IDLE               29 
+ZSLHPL  INC                 3 
+BINTEL  IDLE               62 
+SLMHPL  IDLE               14 
+SLMHPL  OUT                 2 
+SLMHPL  BADM                1 
+ATS35   IDLE              305 
+ATS35   INC                12 
+ATS35   OUT                21 
+MG35    IDLE              117 
+MG35    INC                 5 
+MG35    OUT                 2 
+CAT35   NUC  & RNUC         1 
+HPL104  IDLE                2 
+NVROBZ  IDLE                2 
+NKHOBZ  IDLE               10 
+TSIOBZ  IDLE               10 
+BEROBZ  IDLE                5 
+SLMVS1  IDLE               11 
+SLMVS1  BPRM                1 
+SLMVS1  BADM                5 
+GENOBZ  IDLE                5 
+SLM27   IDLE               58 
+SLM27   OUT                 2 
+GOPOBZ  IDLE                5
+INTERRUPTION TEXT JOB  0839
+
+
+CONTINUATION TEXT 0005
+
+CHEOP/1430E#PS139/UKRCPK1V5131/345/013                16-01-22  09:35:57
+0839  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+KLNOBZ  IDLE                5 
+KAHOBZ  IDLE               10 
+ZSL22   IDLE               87 
+ZSL22   INC                 3 
+IGENKM  IDLE                2 
+SER109  IDLE                4 
+ITRO48  IDLE               26 
+SKAOBZ  IDLE                5 
+BUMCST  IDLE              124 
+BUMCST  INC                14 
+BUMCST  OUT                17 
+BELOBZ  IDLE                5 
+LPT104  IDLE                2 
+VSK104  IDLE                2 
+NTROBZ  IDLE                5 
+BKHAAM  IDLE               30 
+CGENCH  NUC  & RNUC         2 
+BGENCH  IDLE              160 
+BGENCH  OUT                 9 
+BGENCH  INC                 9 
+CKHAM   NUC  & RNUC         1 
+GRN104  IDLE                2 
+BGOLDZ  IDLE               62 
+BGOLD   IDLE               84 
+BGOLD   INC                 7 
+BGOLD   OUT                 2 
+IKAH36  IDLE               26 
+ORADST  NUC  & RNUC         1 
+ORAD35  NUC  & RNUC         1 
+BOD800  IDLE               83 
+BOD800  OUT                10 
+BKAHOV  IDLE              141 
+BKAHOV  INC                16 
+BKAHOV  BBAC               12 
+BKAHOV  OUT                 4 
+CKAHOV  NUC  & RNUC         2 
+BSTEPA  IDLE               58 
+BSTEPA  OUT                 1 
+CSTEPA  NUC  & RNUC         1 
+IKALKM  IDLE                2
+INTERRUPTION TEXT JOB  0839
+
+
+CONTINUATION TEXT 0006
+
+CHEOP/1430E#PS139/UKRCPK1V5131/345/013                16-01-22  09:36:00
+0839  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+IBERKM  IDLE                2 
+ZSLLPT  IDLE               33 
+SLMLPT  IDLE               15 
+SLMLPT  OUT                 2 
+I4238   NUC  & RNUC         1 
+O4238   NUC  & RNUC         1 
+SER104  IDLE                2 
+SLM22   IDLE               74 
+SLM22   OUT                 4 
+IBELKM  IDLE                2 
+SLM26   IDLE               69 
+SLM26   BPRM                1 
+SLM26   OUT                 2 
+IVA104  IDLE                2 
+IPRIKM  IDLE                2 
+MG46    IDLE              519 
+MG46    OUT                22 
+MG46    INC                12 
+CMG46   NUC  & RNUC         1 
+ISTP46  NUC  & RNUC         1 
+OSTP46  NUC  & RNUC         1 
+MG331   IDLE              345 
+MG331   INC                16 
+MG331   OUT                 9 
+I33146  NUC  & RNUC         1 
+CMG337  NUC  & RNUC         1 
+CMG331  NUC  & RNUC         1 
+O33146  NUC  & RNUC         1 
+BBERIS  IDLE              107 
+BBERIS  OUT                 5 
+BBERIS  INC                 4 
+CBERIS  NUC  & RNUC         2 
+BKIUTL  IDLE              166 
+BKIUTL  INC                50 
+BKIUTL  OUT                 1 
+ITROKM  IDLE                2 
+BKIUT1  IDLE              120 
+BKIUT1  OUT                 4 
+MG337   IDLE               32 
+MG337   OUT                 1
+INTERRUPTION TEXT JOB  0839
+
+
+CONTINUATION TEXT 0007
+
+CHEOP/1430E#PS139/UKRCPK1V5131/345/013                16-01-22  09:36:02
+0839  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+MG337   IDLE               87 
+MG337   OUT                 2 
+MG337   INC                 1 
+I33746  NUC  & RNUC         1 
+O33746  NUC  & RNUC         1 
+INKAKM  IDLE                4 
+BODIP1  IDLE              184 
+BODIP1  INC                 2 
+BKI800  IDLE               55 
+BKI800  OUT                 7 
+IUSS22  IDLE               60 
+IUSS26  IDLE               39 
+IUSS26  INC                 1 
+IUSS51  IDLE               30 
+IUSS27  IDLE               40 
+IUSS23  IDLE               30 
+IUSS29  IDLE               35 
+INKAH   IDLE               30 
+ITSUKM  IDLE                2 
+NVR103  IDLE                2 
+IBEL47  IDLE               28 
+INKA49  IDLE               55 
+BNKITC  IDLE               31 
+IPRI39  IDLE               26 
+NVR104  IDLE                2 
+BKISTZ  IDLE               29 
+BKISTZ  INC                 2 
+CALTEK  NUC  & RNUC         1 
+BBELOZ  IDLE              106 
+BBELOZ  INC                 4 
+BBELOZ  OUT                 4 
+CBELOZ  NUC  & RNUC         2 
+ROG104  IDLE                2 
+BNTR    IDLE              146 
+BNTR    OUT                 2 
+BNTR    INC                 1 
+CNTR    NUC  & RNUC         2 
+IATC29  IDLE               10 
+OATC29  IDLE               15 
+HPL109  IDLE                4
+INTERRUPTION TEXT JOB  0839
+
+
+CONTINUATION TEXT 0008
+
+CHEOP/1430E#PS139/UKRCPK1V5131/345/013                16-01-22  09:36:04
+0839  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+SER103  IDLE                2 
+IKAL30  IDLE               28 
+IVA103  IDLE                2 
+NVR109  IDLE                4 
+HPL103  IDLE                2 
+GRN109  IDLE                2 
+GEN103  IDLE                2 
+VSK109  IDLE                5 
+KAH103  IDLE                2 
+BNKAH   IDLE              209 
+BNKAH   INC                 9 
+BNKAH   OUT                17 
+CNKAH   NUC  & RNUC         2 
+SKA103  IDLE                2 
+NKA103  IDLE                2 
+BKLN    IDLE              107 
+BKLN    OUT                 6 
+BKLN    INC                 1 
+CKLN    NUC  & RNUC         2 
+BINT1   IDLE               62 
+BUKOM   IDLE               77 
+BUKOM   INC                10 
+BUKOM   OUT                 6 
+GOP103  IDLE                2 
+BFUMC   IDLE               30 
+CFUMC   NUC  & RNUC         1 
+NTR103  IDLE                2 
+ROG103  IDLE                2 
+BA103   IDLE                2 
+OATC23  IDLE               15 
+BA109   IDLE                4 
+IATC23  IDLE               10 
+BALTL   IDLE              791 
+BALTL   INC                14 
+BALTL   OUT                18 
+BALTL   BADM                1 
+BALTL   MOBB                1 
+LPT109  IDLE                3 
+IVA109  IDLE                3 
+BAE39L  IDLE               26
+INTERRUPTION TEXT JOB  0839
+
+
+CONTINUATION TEXT 0009
+
+CHEOP/1430E#PS139/UKRCPK1V5131/345/013                16-01-22  09:36:05
+0839  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+BAE39L  INC                10 
+BAE39L  IDLE              240 
+BAE39L  OUT                 3 
+OTST10  IDLE               15 
+ITST10  IDLE               15 
+BCHRN   IDLE               30 
+BODIP2  IDLE               31 
+SLMIV1  IDLE               15 
+SLMIV1  BPRM                1 
+SLMIV1  OUT                 1 
+ZSLIV1  IDLE               31 
+ZSLIV1  BADM                1 
+ZSLIV1  INC                 1 
+ZSLSE1  IDLE               30 
+ZSLSE1  INC                 2 
+SLMSE1  IDLE               14 
+SLMSE1  OUT                 2 
+SLMSE1  BPRM                1 
+BLVIV1  IDLE               62 
+ZSLBA2  IDLE               12 
+ZSLBA2  IDLE & FRCD &       1 
+        IALM                  
+ZSLBA2  BADM                5 
+ZSLBA2  INC                 2 
+SLMBA2  IDLE               16 
+SLMBA2  BADM               10 
+SLMBA2  OUT                 1 
+SLMRG1  IDLE               15 
+SLMRG1  BADM                2 
+ZSLRG1  IDLE               23 
+ZSLRG1  BADM                7 
+ZSLRG1  INC                 2 
+ZSLVS1  IDLE               31 
+ZSLNV1  IDLE               29 
+ZSLNV1  BADM                2 
+ZSLNV1  INC                 1 
+SLMNV1  OUT                 1 
+SLMNV1  IDLE               13 
+SLMNV1  BADM                4 
+CCHERN  NUC  & RNUC         2 
+SER102  IDLE                3
+INTERRUPTION TEXT JOB  0839
+
+
+CONTINUATION TEXT 0010
+
+CHEOP/1430E#PS139/UKRCPK1V5131/345/013                16-01-22  09:36:07
+0839  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+MKIEAM  NUC  & RNUC         2 
+MODEAM  NUC  & RNUC         2 
+MKHAAM  NUC  & RNUC         2 
+BCHRNL  IDLE               92 
+BPLUT1  IDLE               30 
+BPLUT1  BADM & MPRT        31 
+BLVIVL  IDLE              122 
+BLVIVL  OUT                 2 
+BDNEP1  IDLE              112 
+BDNEP1  INC                12 
+MBERIS  NUC  & RNUC         4 
+MBELOZ  NUC  & RNUC         4 
+MGENCH  NUC  & RNUC         4 
+MGOPRI  NUC  & RNUC         4 
+MKLN    NUC  & RNUC         4 
+MKAHOV  NUC  & RNUC         4 
+MNKAH   NUC  & RNUC         4 
+MNTR    NUC  & RNUC         4 
+MSKAD   NUC  & RNUC         4 
+MSTEPA  NUC  & RNUC         2 
+M42     NUC  & RNUC         2 
+M337    NUC  & RNUC         2 
+M38     NUC  & RNUC         2 
+M46     NUC  & RNUC         2 
+M34     NUC  & RNUC         2 
+M331    NUC  & RNUC         2 
+MTSIU   NUC  & RNUC         4 
+MMTC    NUC  & RNUC         2 
+BPLUTL  INC                 4 
+BPLUTL  IDLE               86 
+BPLUTL  OUT                 2 
+MALTEK  NUC  & RNUC         2 
+MCHRN   NUC  & RNUC         4 
+CPLUT1  NUC  & RNUC         2 
+MPLUT   NUC  & RNUC         4 
+BAFINL  IDLE               49 
+BAFINL  INC                 2 
+BAFIN1  IDLE               10 
+BTEKO   IDLE               30 
+BTEKO   BADM & MDIU        31
+INTERRUPTION TEXT JOB  0839
+
+
+CONTINUATION TEXT 0011
+
+CHEOP/1430E#PS139/UKRCPK1V5131/345/013                16-01-22  09:36:08
+0839  NetM         TSURK              3070/09830 
+
+TRUNK STATUS SUM OVERVIEW 
+ 
+TGNO    STATUS          SUM 
+-------+---------------+------- 
+CAFIN1  NUC  & RNUC         1 
+CTEKO   NUC  & RNUC         1 
+MAFINA  NUC  & RNUC         2 
+MTEKO   NUC  & RNUC         2 
+BGOLDL  IDLE              154 
+BGOLDL  INC                 1 
+BSTARL  IDLE              124 
+LPT103  IDLE                2 
+KLN103  IDLE                2 
+VSK103  IDLE                2 
+BEL103  IDLE                2
+END JOB 0839
+
+
+
+
+
+-----------------------------------------------------------------
+
+End Time		 :  Friday, January 22, 2016 09:40:15
+
+-----------------------------------------------------------------
+
